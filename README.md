@@ -1,5 +1,4 @@
-# TSSR-ANGOU-2409-P1-G3
-Projet 1 - Groupe 3 - Sujet : Plateforme de surveillance de sécurité
+# Projet 1 - Groupe 3 - Sujet : Plateforme de surveillance de sécurité
 
 
 Présentation du projet, objectifs finaux

@@ -1,7 +1,25 @@
-#Documentation administrateur
+# Documentation administrateur
 
-Prérequis techniques
+## Prérequis techniques
 
-Etapes d'installation et de configuration : Instruction étape par étape
+- ISO de Security Onion Desktop (mettre un lien )
+- 50G de disque libre pour Security Onion Desktop
 
-FAQ : solutions aux problèmes connues et communs liés à l'installation et à la configuration
+## Etapes d'installation et de configuration : 
+> Instruction étape par étape
+#### Vérification de l'intégrité de l'ISO
+
+#### Configuration Réseau 
+configuration réseau de la VM  ?
+
+#### Installation de Security Onion
+
+#### Configuration Administrateur
+
+#### Configuration nouvel utilisateur
+
+## FAQ : solutions aux problèmes connues et communs liés à l'installation et à la configuration
+
+Mise en place du server pour security Onion (CentOS)
+
+Installation du logiciel Security Onion

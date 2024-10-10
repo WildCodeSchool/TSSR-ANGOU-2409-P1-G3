@@ -2,7 +2,7 @@
 
 ## Présentation du projet, objectifs finaux
 
-L'objectif principal de ce projet est  de mettre en place une plateforme de surveillance réseau, via l'utilisation du logiciel Security Onion, tout en réalisant une documentation complète et correcte.
+L'objectif principal de ce projet est de mettre en place une plateforme de surveillance réseau, via l'utilisation du logiciel Security Onion, tout en réalisant une documentation complète et correcte.
 
 Un objectif secondaire est proposé et consiste à initier des règles de détection d'intrusion.
 

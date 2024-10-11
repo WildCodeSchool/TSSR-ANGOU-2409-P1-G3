@@ -50,11 +50,11 @@ Flux de travail :
  ![Dashboard _ SecurityOnion](https://docs.securityonion.net/en/2.4/_images/53_dashboards.png)
   
 - Passer à Hunt pour etudiez et étendre votre recherche, les journaux supplémentaires relatifs aux adresses IP source et de destination.
-
-
-
-- PCAP ( packet capture ) interface de programmation permettant de capturer un trafic réseau
-
+- Si l'une de ces alertes, vous semble intéressant passer PCAP ( packet capture ) interface de programmation permettant de capturer un trafic réseau pour examiner.
+- En fonction de vos recherches, envoyez a CyberChef pour une analyse et un decodage plus approfondie.
+- Transférez les alertes et les journaux vers les dossiers et documentez tous les éléments observables. Passez à Hunt pour élargir votre champ d'action à ces éléments observables.
+- Si vous avez déployé ElasticAgent, vous souhaiterez peut-être rechercher des journaux d'hôte supplémentaires ou exécuter des requêtes en direct sur vos points de terminaison à l'aide d'osquery.
+- Enfin, revenez aux dossiers et documentez l’intégralité de l’enquête et fermez le dossier.
 
 Logiciels inclus dans Security Onion 
 

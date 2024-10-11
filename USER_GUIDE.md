@@ -1,8 +1,6 @@
 # Documentation Utilisateur
 
-## Utilisation de base : comment utiliser les fonctionnalités clés
-
-### Spécifications du logiciel
+## Utilisation de base : Comment utiliser les fonctionnalités clés
 
 Flux de travail : 
 - Alertes et examinez les alertes non reconnues 

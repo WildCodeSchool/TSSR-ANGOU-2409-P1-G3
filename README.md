@@ -37,7 +37,7 @@ Le logiciel Security Onion est utilisé dans différents buts. Il permet la traq
 > Version : Oracle Linux 9.x
 
 
-## Spéifications du logiciel
+## Spécifications du logiciel
 
 Flux de travail : 
 - Alertes et examinez les alertes non reconnues 

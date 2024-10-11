@@ -24,4 +24,4 @@ Sécurity Onion, permet la sauvegarde quotidienne de certains fichiers afin de p
 ainsi une duplication de sauvegarde est possible vers un emplacement extérieur. Cependant les données ElasticSearch ne sont pas sauvegardeés automatiquement.
 
 
-FAQ : solutions aux problèmes connus et communs liés à l'utilisation
+## FAQ : solutions aux problèmes connus et communs liés à l'utilisation

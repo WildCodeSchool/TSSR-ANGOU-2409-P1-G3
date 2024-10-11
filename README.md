@@ -36,6 +36,26 @@ Le logiciel Security Onion est utilisé dans différents buts. Il permet la traq
 > Type : Linux
 > Version : Oracle Linux 9.x
 
+
+## Spéifications du logiciel
+
+Flux de travail : 
+- Alertes et examinez les alertes non reconnues 
+- Consultez le tableau de bord 
+- Passer à Hunt pour etudiez et étendre votre recherche et rechercher des journaux supplémentaires relatifs aux adresses IP source et de destination.
+- PCAP ( packet capture ) interface de programmation permettant de capturer un trafic réseau
+
+
+Logiciels inclus dans Security Onion 
+
+> SURICATA, une détection basée sur les signatures, c’est un outil intégré au logiciel Sécurity Onion, un moteur d’alerte qui permet la détection des menaces et d’intrusions réseaux en inspectant le trafic, reporter dans l'onglet Alertes du logiciel. 
+
+> ZEEK, ancien nom BRO 
+Protocole et l’extraction de fichiers, outil permettant la surveillance réseau, il signale à la fois la perte de paquets et la perte de capture via Stenographer et l’analyse de fichiers via Strelka.
+
+> ELASTIC SEARCH 
+Pour la visibilité des hôtes, Security Onion propose ElasticAgent, qui assure la collecte des données ainsi le moteur ElasticSearch, utilisé pour l'analyse et la visualisation des journaux, la recherche en texte intégral, la veille sécuritaire, l'analytique commerciale et l'intelligence opérationnelle. les requêtes en direct via osquery et la gestion centralisée à l’aide d’Elastic Fleet. Elasticsearch est devenu le moteur de recherche d’entreprise le plus populaire. 
+
 ## Difficultés rencontrées : problèmes techniques rencontrés
 
 ## Solutions trouvées : Solutions et alternatives trouvées

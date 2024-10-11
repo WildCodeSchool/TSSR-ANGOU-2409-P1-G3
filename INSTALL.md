@@ -17,10 +17,14 @@ Téléchargement et importation de la clé de signature avec le gestionnaire de 
 `wget https://raw.githubusercontent.com/Security-Onion-Solutions/securityonion/2.4/main/KEYS -O - | gpg --import -  `
 ```
 
-#### Configuration Réseau 
+#### Configuration de la VM
+
+#### Configuration de l'OS
+
+#### Configuration Réseau de l'OS
 configuration réseau de la VM  ?
 
-#### Installation de Security Onion
+#### Installation du logiciel Security Onion
 
 #### Configuration Administrateur
 

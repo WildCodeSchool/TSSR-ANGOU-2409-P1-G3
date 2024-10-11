@@ -55,6 +55,8 @@ Pour la visibilité des hôtes, Security Onion propose ElasticAgent, qui assure 
 
 ## Difficultés rencontrées : problèmes techniques rencontrés
 
+Problème du mode "NAT" : permet à la 
+
 ## Solutions trouvées : Solutions et alternatives trouvées
 
 ## Améliorations possibles : suggestions d’améliorations futures

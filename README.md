@@ -20,9 +20,9 @@ Le logiciel Security Onion est utilisé dans différents buts. Il permet la traq
 
 ### Rôles Sprint semaine 2
 
-> Mathieu Leroux : __  
-> Thomas Garreau : __  
-> Axel Charpentier : __  
+> Mathieu Leroux : _Technicien_  
+> Thomas Garreau : _Product Owner_  
+> Axel Charpentier : _Scrum Master_  
 
 ### Rôles Sprint semaine 3
 

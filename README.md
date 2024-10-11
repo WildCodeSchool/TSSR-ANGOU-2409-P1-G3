@@ -45,8 +45,14 @@ Le logiciel Security Onion est utilisé dans différents buts. Il permet la traq
 
 Flux de travail : 
 - Alertes et examinez les alertes non reconnues 
-- Consultez le tableau de bord 
+- Consultez le tableau de bord
+  
+ ![Dashboard _ SecurityOnion](https://docs.securityonion.net/en/2.4/_images/53_dashboards.png)
+  
 - Passer à Hunt pour etudiez et étendre votre recherche, les journaux supplémentaires relatifs aux adresses IP source et de destination.
+
+
+
 - PCAP ( packet capture ) interface de programmation permettant de capturer un trafic réseau
 
 

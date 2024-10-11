@@ -32,7 +32,10 @@ Le logiciel Security Onion est utilisé dans différents buts. Il permet la traq
 
 ## Outils utilisés
 
-[Miro](https://miro.com/app/board/uXjVLUlrqs8=/)
+- [Miro](https://miro.com/app/board/uXjVLUlrqs8=/)
+
+- [Discord](https://discord.com/)
+- [Github](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3)
 
 ## Choix techniques : quel OS, quelle version, etc
 

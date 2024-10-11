@@ -30,6 +30,10 @@ Le logiciel Security Onion est utilisé dans différents buts. Il permet la traq
 > Thomas Garreau : __  
 > Axel Charpentier : __  
 
+## Outils utilisés
+
+[Miro](https://miro.com/app/board/uXjVLUlrqs8=/)
+
 ## Choix techniques : quel OS, quelle version, etc
 
 > OS : Security Onion 2.4

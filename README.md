@@ -58,7 +58,7 @@ Pour la visibilité des hôtes, Security Onion propose ElasticAgent, qui assure 
 
 Sécurity Onion, permet la sauvegarde quotidienne de certains fichiers afin de pouvoir récupérer ces derniers en cas de panne. Une sauvegarde quotidienne est disponible _/nsm/backup/_ ainsi une duplication de sauvegarde est possible vers un emplacement extérieur. Cependant les données ElasticSearch ne sont pas sauvegardeés automatiquement.
 
-
+hgjhd
 
 
 ## Difficultés rencontrées : problèmes techniques rencontrés

@@ -19,15 +19,16 @@ Téléchargement et importation de la clé de signature avec le gestionnaire de 
 
 #### Configuration de la VM
 
-Créer une nouvelle VM
+Depuis le logiciel VirtualBox créer une nouvelle VM :
 
 ![NOUVELLE_VM.PNG](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/Images%20doc/NOUVELLE_VM.PNG)
 
-Renseigner le nom de la VM
+Renseigner le nom de la VM. Celui-ci n'a pas d'importance, il vous permettra seulement de l'identifier parmi vos autres VM : 
 
+![RENSEIGNER_NOM_VM.PNG](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/Images%20doc/RENSEIGNER_NOM_VM.PNG)
 
+Sélectionner l'ISO depuis l'emplacement où vous l'avez téléchargé : 
 
-Sélectionner l'ISO
 
 Définir la quantité de RAM et de Coeurs
 

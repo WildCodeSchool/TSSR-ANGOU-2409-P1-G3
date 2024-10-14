@@ -65,10 +65,14 @@ Principales Caractéristiques de Sécurity Onion
 > **ELASTIC SEARCH** 
 Pour la visibilité des hôtes, Security Onion propose ElasticAgent, qui assure la collecte des données ainsi le moteur ElasticSearch, utilisé pour l'analyse et la visualisation des journaux, la recherche en texte intégral, la veille sécuritaire, l'analytique commerciale et l'intelligence opérationnelle. les requêtes en direct via osquery et la gestion centralisée à l’aide d’Elastic Fleet. Elasticsearch est devenu le moteur de recherche d’entreprise le plus populaire. 
 
-> **SURICATA**, logiciel open source de détection d'intrusion (IDS), de prévention d'intrusion (IPS), une détection basée sur les signatures, intégré au logiciel Sécurity Onion, un moteur d’alerte qui permet la détection des menaces et d’intrusions réseaux en inspectant le trafic, reporter dans l'onglet Alertes de l'interface. 
+> **SURICATA** : logiciel open source de détection d'intrusion (IDS), de prévention d'intrusion (IPS), une détection basée sur les signatures, intégré au logiciel Sécurity Onion, un moteur d’alerte qui permet la détection des menaces et d’intrusions réseaux en inspectant le trafic, reporter dans l'onglet Alertes de l'interface. 
 
-> **ZEEK, ancien nom BRO** 
-Protocole et l’extraction de fichiers, outil permettant la surveillance réseau, il signale à la fois la perte de paquets et la perte de capture via Stenographer et l’analyse de fichiers via Strelka.
+> **ZEEK, ancien nom BRO** : Protocole et l’extraction de fichiers, outil permettant la surveillance réseau, il signale à la fois la perte de paquets et la perte de capture via Stenographer et l’analyse de fichiers via Strelka. 
+
+> **WAZUH** : HIDS Host Intrusion Detection Systems, puissant système de détection d'intrusions machine basé sur OSSEC.
+
+> **STENOGRAPHER**  : outil de capture de paquets, et d'analyse détection d'intrusion et d'incidents. 
+
 
 
 ## Difficultés rencontrées : problèmes techniques rencontrés

@@ -42,6 +42,19 @@ Le logiciel Security Onion est utilisé dans différents buts. Il permet la traq
 > Type : Linux
 > Version : Oracle Linux 9.x
 
+
+## Introduction au logiciel Security Onion 
+- Policies, procedures, awarenesss 
+- Sécurité physique
+- Sécurité de périmètre
+- Réseau interne
+- Sécurité de l'hôte
+- Sécurité d'application
+- Sécurité des données
+
+! [] (https://github.com/user-attachments/assets/ae80f994-ea60-4e09-af1e-74d3ce353263)
+
+
 ### Logiciels inclus dans Security Onion 
 
 > **SURICATA**, une détection basée sur les signatures, c’est un outil intégré au logiciel Sécurity Onion, un moteur d’alerte qui permet la détection des menaces et d’intrusions réseaux en inspectant le trafic, reporter dans l'onglet Alertes du logiciel. 

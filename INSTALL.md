@@ -10,10 +10,11 @@ Dans le cas d'une utilisation standard, il vous faut allouer :
 * 200 Gb de stockage (SSD préférable, mais un HDD conviendra)
 
 La liste complète des prérequis techniques peut être trouvée [ici](https://docs.securityonion.net/en/2.4/hardware.html).
-
+_____________________________________________________________________________________________________________________________________________________________________________
 ## Etapes d'installation et de configuration : 
 > Instruction étape par étape
 
+________________
 ### Vérification de l'intégrité de l'ISO
 
 **Linux :** 
@@ -43,9 +44,6 @@ L'emprunte de la clé primaire doit correspondre à :
 Primary key fingerprint: C804 A93D 36BE 0C73 3EA1  9644 7C10 60B7 FE50 7013
 ```
 
-
-
-
 **Windows :**
 
 Dans un premier temps, téléchargez l'ISO [ici](https://download.securityonion.net/file/securityonion/securityonion-2.4.110-20241004.iso).
@@ -61,7 +59,7 @@ Une fois cette étape réalisée, cliquez sur "Hashages". Un chargement se lance
 ![FIN_CHARGEMENT_HASHAGES](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/Images%20doc/FIN_CHARGEMENT_HASHAGES.png)
 
 Dans ce cas précis, les clés correspondent.
-
+________________
 ### Configuration de la VM
 
 Depuis le logiciel VirtualBox créer une nouvelle VM :
@@ -85,16 +83,21 @@ Définir l'espace disque requis pour le bon fonctionnement de la VM :
 ![ESPACE_DISQUE.PNG](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/Images%20doc/ESPACE_DISQUE.PNG)
 
 Votre VM est prête.
-
+________________
 ### Configuration de l'ISO / OS
 
+________________
 ### Configuration Réseau de l'OS
 configuration réseau de la VM  ?
 
+_____________________________________________________________________________________________________________________________________________________________________________
 ## Installation du logiciel Security Onion
 
+________________
 ### Configuration Administrateur
 
+________________
 ### Configuration nouvel utilisateur
 
+_____________________________________________________________________________________________________________________________________________________________________________
 ## FAQ : solutions aux problèmes connues et communs liés à l'installation et à la configuration

@@ -4,7 +4,7 @@
 
 - [ Téléchargement de Security Onion Desktop ISO](https://github.com/Security-Onion-Solutions/securityonion/raw/2.4/main/sigs/securityonion-2.4.110-20241004.iso.sig)
 
-Dans le cas d'une utilisation standard, il vous faut :
+Dans le cas d'une utilisation standard, il vous faut allouer :
 * 4 cɶurs
 * 16 Gb RAM
 * 200 Gb de stockage (SSD préférable, mais un HDD conviendra)

@@ -70,6 +70,8 @@ Définir l'espace disque requis pour le bon fonctionnement de la VM :
 
 ![ESPACE_DISQUE.PNG](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/Images%20doc/ESPACE_DISQUE.PNG)
 
+Votre VM est prête.
+
 ### Configuration de l'ISO / OS
 
 ### Configuration Réseau de l'OS

@@ -2,21 +2,22 @@
 
 ## Logiciel Sécurity Onion 
 - Après l'installation du système d'exploitation de Security Onion
-
+  
 - Lancer l'application Security Onion
-
+  
 - Connectez vous à l'application :
 identifiant et mot de passe 
 
  - Bienvenue dans l'interface avec les différents panels et analyse de gestions des alertes et seuil d'alerte, benchmark HIDS
 
 > ALERTES 
-afficher par type, count,  HIDS, NIDS 
-clic droit sur l'alerte ( pour les détails ) 
+Afficher par type, count,  HIDS, NIDS, possibilité de faire clic droit sur l'alerte ( pour les détails ) 
 
 >  HUNT 
-alertes remontées, filtres point d'analyses 
-récupération de données pour détecter les intrusions ou les menaces 
+Alertes remontées, filtres point d'analyses et récupération de données pour détecter les intrusions ou les menaces.
+
+> DOWNLOADS
+Packages et plugins téléchargés. 
 
 
 

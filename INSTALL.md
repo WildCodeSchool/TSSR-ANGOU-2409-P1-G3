@@ -21,6 +21,8 @@ Téléchargement et importation de la clé de signature avec le gestionnaire de 
 
 Créer une nouvelle VM
 
+![VirtualBox_hZqrMLegSK_EDITE](https://github.com/user-attachments/assets/ce6f2f31-5b0a-4fcf-8ead-8ae89b92cfe8)
+
 Renseigner le nom de la VM
 
 Sélectionner l'ISO

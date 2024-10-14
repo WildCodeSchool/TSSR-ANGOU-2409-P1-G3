@@ -58,9 +58,11 @@ Principales Caractéristiques de Sécurity Onion
 ![](https://github.com/user-attachments/assets/ae80f994-ea60-4e09-af1e-74d3ce353263)
 
 
-
+__________________________________________________________________________
 
 ### Logiciels inclus dans Security Onion 
+
+Security Onion contient plusieurs outils de NSM ( Network Security Monitoring ).
 
 > **ELASTIC SEARCH** 
 Pour la visibilité des hôtes, Security Onion propose ElasticAgent, qui assure la collecte des données ainsi le moteur ElasticSearch, utilisé pour l'analyse et la visualisation des journaux, la recherche en texte intégral, la veille sécuritaire, l'analytique commerciale et l'intelligence opérationnelle. les requêtes en direct via osquery et la gestion centralisée à l’aide d’Elastic Fleet. Elasticsearch est devenu le moteur de recherche d’entreprise le plus populaire. 

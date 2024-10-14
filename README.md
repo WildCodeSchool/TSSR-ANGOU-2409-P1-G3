@@ -33,9 +33,9 @@ Le logiciel Security Onion est utilisé dans différents buts. Il permet la traq
 
 ## Outils utilisés
 
-- [Miro](https://miro.com/app/board/uXjVLUlrqs8=/)
-- [Discord](https://discord.com/)
-- [Github](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3)
+- [Miro](https://miro.com/app/board/uXjVLUlrqs8=/) est un espace de travail collaboratif en lien avec la gestion de projet.
+- [Discord](https://discord.com/) est un logiciel de communication (VoIP) et de messagerie instantanée.
+- [Github](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3) est une plateforme collaborative qui permet de stocker et d'éditer du code pour différents projets.
 
 ## Choix techniques : quel OS, quelle version, etc
 

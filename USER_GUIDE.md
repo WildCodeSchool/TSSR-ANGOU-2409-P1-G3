@@ -1,7 +1,7 @@
 # Documentation Utilisateur
 
 ## Logiciel Sécurity Onion 
-- Après installation du système d'exploitation de Security Onion
+- Après l'installation du système d'exploitation de Security Onion
 - Lancer l'application Security Onion
 
 
@@ -14,9 +14,9 @@ Flux de travail :
  ![Dashboard _ SecurityOnion](https://docs.securityonion.net/en/2.4/_images/53_dashboards.png)
   
 - Passer à Hunt, interface qui cible plus précisemmment les requêtes en regroupant plusieurs champs du Tableau de bord, etudiez et étendre votre recherche, les journaux supplémentaires relatifs aux adresses IP source et de destination.
-- Si l'une de ces alertes, vous semble intéressant passer PCAP ( packet capture ) interface de programmation permettant de capturer un trafic réseau pour examiner.
-- En fonction de vos recherches, envoyez a CyberChef pour une analyse et un decodage plus approfondie.
-- Transférez les alertes et les journaux vers les dossiers. Passez à Hunt pour élargir votre champ d'action.
+- Si l'une de ces alertes, vous semble intéressantes passer PCAP ( packet capture ) interface de programmation permettant de capturer un trafic réseau pour examiner.
+- En fonction de vos recherches, envoyez a CyberChef pour une analyse et un décodage plus approfondie.
+- Transférez les alertes et les journaux vers les dossiers. Passez à la rubrique _Hunt_ pour élargir votre champ d'action.
 - Si vous avez déployé ElasticAgent, rechercher des journaux d'hôte supplémentaires ou exécuter des requêtes à l'aide d'osquery.
 - Enfin, revenez aux dossiers et documentez l’intégralité de l’enquête et fermez le dossier.
 

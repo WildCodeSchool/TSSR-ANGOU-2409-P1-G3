@@ -12,7 +12,7 @@
 ## Etapes d'installation et de configuration : 
 > Instruction étape par étape
 
-#### Vérification de l'intégrité de l'ISO
+### Vérification de l'intégrité de l'ISO
 
 **Linux :** 
 
@@ -48,7 +48,7 @@ Primary key fingerprint: C804 A93D 36BE 0C73 3EA1  9644 7C10 60B7 FE50 7013
 ```bash
 ```
 
-#### Configuration de la VM
+### Configuration de la VM
 
 Depuis le logiciel VirtualBox créer une nouvelle VM :
 
@@ -70,15 +70,15 @@ Définir l'espace disque requis pour le bon fonctionnement de la VM :
 
 ![ESPACE_DISQUE.PNG](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/Images%20doc/ESPACE_DISQUE.PNG)
 
-#### Configuration de l'ISO / OS
+### Configuration de l'ISO / OS
 
-#### Configuration Réseau de l'OS
+### Configuration Réseau de l'OS
 configuration réseau de la VM  ?
 
-#### Installation du logiciel Security Onion
+## Installation du logiciel Security Onion
 
-#### Configuration Administrateur
+### Configuration Administrateur
 
-#### Configuration nouvel utilisateur
+### Configuration nouvel utilisateur
 
 ## FAQ : solutions aux problèmes connues et communs liés à l'installation et à la configuration

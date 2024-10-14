@@ -53,7 +53,7 @@ Le logiciel Security Onion est utilisé dans différents buts. Il permet la traq
 - Sécurité d'application
 - Sécurité des données
 
-! [] (https://github.com/user-attachments/assets/ae80f994-ea60-4e09-af1e-74d3ce353263)
+![](https://github.com/user-attachments/assets/ae80f994-ea60-4e09-af1e-74d3ce353263)
 
 
 ### Logiciels inclus dans Security Onion 

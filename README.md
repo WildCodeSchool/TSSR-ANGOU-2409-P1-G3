@@ -8,7 +8,8 @@ Un objectif secondaire est proposé et consiste à initier des règles de détec
 
 ## Introduction : Mise en contexte
 
-Le logiciel Security Onion est utilisé dans différents buts. Il permet la traque des menaces, la surveillance de la sécurité des entreprises et la gestion des journaux. Distribué par l'OS Linux, logiciel open source téléchargé par plus de deux millions utilisateurs. 
+Dans un monde où la cybersécurité prend de plus en plus de place et d'importance, certains logiciels permettent d'assurer une meilleure sécurité des infrastructures réseaux.
+C'est le cas du logiciel Security Onion. Ce logiciel est utilisé dans différents buts. Il est dédié, dans un but premier, à la surveillance du réseau en traquant les activité suspectes tels que les accès non autorisés, les logiciels malveillants ou tout comportement suspect. Il garantit la surveillance de la sécurité des entreprises et la gestion des journaux. Distribué par l'OS Linux, c'est un logiciel open source téléchargé aujourd'hui par plus de deux millions utilisateurs. 
 
 
 ## Membres du groupe de projet (rôle par sprint)

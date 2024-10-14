@@ -19,7 +19,19 @@ Téléchargement et importation de la clé de signature avec le gestionnaire de 
 
 #### Configuration de la VM
 
-#### Configuration de l'OS
+Créer une nouvelle VM
+
+Renseigner le nom de la VM
+
+Sélectionner l'ISO
+
+Définir la quantité de RAM et de Coeurs
+
+Définir l'espace disque
+
+
+
+#### Configuration de l'ISO / OS
 
 #### Configuration Réseau de l'OS
 configuration réseau de la VM  ?

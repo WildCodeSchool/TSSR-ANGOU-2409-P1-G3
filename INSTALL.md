@@ -60,12 +60,15 @@ Renseigner le nom de la VM. Celui-ci n'a pas d'importance, il vous permettra seu
 
 Sélectionner l'ISO depuis l'emplacement où vous l'avez téléchargé : 
 
+![SELECTIONNER_ISO.PNG](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/Images%20doc/SELECTIONNER_ISO.PNG)
 
-Définir la quantité de RAM et de Coeurs
+Définir la quantité de RAM et le nombre de Cɶurs (d'après les prérequis techniques mentionnés plus haut) : 
 
-Définir l'espace disque
+![RAM_COEURS.PNG](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/Images%20doc/RAM_COEURS.PNG)
 
+Définir l'espace disque requis pour le bon fonctionnement de la VM : 
 
+![ESPACE_DISQUE.PNG](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/Images%20doc/ESPACE_DISQUE.PNG)
 
 #### Configuration de l'ISO / OS
 

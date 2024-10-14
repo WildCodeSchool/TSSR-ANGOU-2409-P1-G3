@@ -39,9 +39,9 @@ Le logiciel Security Onion est utilisé dans différents buts. Il permet la traq
 
 ## Choix techniques : quel OS, quelle version, etc
 
-> OS : Security Onion 2.4
-> Type : Linux
-> Version : Oracle Linux 9.x
+> OS : Security Onion 2.4  
+> Type : Linux  
+> Version : Oracle Linux 9.x  
 
 
 ## Introduction au logiciel Security Onion 

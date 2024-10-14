@@ -47,12 +47,12 @@ Primary key fingerprint: C804 A93D 36BE 0C73 3EA1  9644 7C10 60B7 FE50 7013
 
 Dans un premier temps, téléchargez l'ISO [ici](https://download.securityonion.net/file/securityonion/securityonion-2.4.110-20241004.iso).
 
-Une fois téléchargé, installez [HashCheckSetup-v2.4.0](https://www.softpedia.com/get/System/OS-Enhancements/HashCheck-Shell-Extension.shtml). Ce logiciel va permettre de vérifier les hachages de l'ISO securityonion et vous permettre de contrôler l'image ISO téléchargée en la comparant aux valeurs indiquées sur ce [lien](https://github.com/Security-Onion-Solutions/securityonion/blob/d5df002f980ab1e4a442d410fd56ec976cdd9768/DOWNLOAD_AND_VERIFY_ISO.md).
+Une fois téléchargé, installez [HashCheckSetup-v2.4.0](https://www.softpedia.com/get/System/OS-Enhancements/HashCheck-Shell-Extension.shtml). Ce logiciel va permettre de vérifier les hachages de l'ISO securityonion et vous permettre de contrôler l'image ISO téléchargée en la comparant aux valeurs indiquées sur ce [lien](https://github.com/Security-Onion-Solutions/securityonion/blob/d5df002f980ab1e4a442d410fd56ec976cdd9768/DOWNLOAD_AND_VERIFY_ISO.md) Github.
 
 Pour se faire : clic droit sur l'image ISO, sélectionnez "Propriétés", vous devriez arriver sur cet écran : 
 ![PROPRIETES_ISO.PNG](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/Images%20doc/PROPRIETES_ISO.png)
 
-Une fois cette étape réalisée, cliquez sur "Hashages. Un chargement se lance (allant de quelques dizaines de secondes à quelques minutes selon la puissance de votre machine). Une fois le chargement terminé, vous êtes en mesure d'observer les clés à comparer :
+Une fois cette étape réalisée, cliquez sur "Hashages". Un chargement se lance (allant de quelques dizaines de secondes à quelques minutes selon la puissance de votre machine). Une fois le chargement terminé, vous êtes en mesure d'observer les clés à comparer :
 ![FIN_CHARGEMENT_HASHAGES](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/Images%20doc/FIN_CHARGEMENT_HASHAGES.png)
 
 Dans ce cas précis, les clés correspondent.

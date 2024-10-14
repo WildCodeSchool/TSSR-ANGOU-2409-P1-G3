@@ -14,9 +14,38 @@
 
 #### Vérification de l'intégrité de l'ISO
 
-Téléchargement et importation de la clé de signature avec le gestionnaire de signature **GPG** *(Linux uniquement)*
+**Linux :** 
+
+Téléchargement et importation de la clé de signature avec le gestionnaire de signature **GPG**
 ```bash
-`wget https://raw.githubusercontent.com/Security-Onion-Solutions/securityonion/2.4/main/KEYS -O - | gpg --import -  `
+wget https://raw.githubusercontent.com/Security-Onion-Solutions/securityonion/2.4/main/KEYS -O - | gpg --import -  
+```
+Téléchargement du fichier de signature :
+```bash
+wget https://github.com/Security-Onion-Solutions/securityonion/raw/2.4/main/sigs/securityonion-2.4.110-20241004.iso.sig
+```
+Vérification du fichier ISO avec **GPG** :
+```bash
+gpg --verify securityonion-2.4.110-20241004.iso.sig securityonion-2.4.110-20241004.iso
+```
+Si l'image signature et l'ISO correspondent, le résultat de la commande **GPG** devrait afficher "**Good signature**" dans le terminal
+```bash
+gpg: Signature made Sat 05 Oct 2024 03:31:57 PM CEST
+gpg:                using RSA key C804A93D36BE0C733EA196447C1060B7FE507013
+gpg: Good signature from "Security Onion Solutions, LLC <info@securityonionsolutions.com>" [unknown]
+gpg: WARNING: This key is not certified with a trusted signature!
+gpg:          There is no indication that the signature belongs to the owner.
+```
+L'emprunte de la clé primaire doit correspondre à :
+```bash
+Primary key fingerprint: C804 A93D 36BE 0C73 3EA1  9644 7C10 60B7 FE50 7013
+```
+
+
+
+
+**Windows :**
+```bash
 ```
 
 #### Configuration de la VM

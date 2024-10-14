@@ -73,4 +73,8 @@ Problème du mode "NAT" : permet à la
 
 ## Solutions trouvées : Solutions et alternatives trouvées
 
+### Product Bakclog
+
+### Retours entretiens client ?
+
 ## Améliorations possibles : suggestions d’améliorations futures

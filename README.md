@@ -79,7 +79,11 @@ Pour la visibilité des hôtes, Security Onion propose ElasticAgent, qui assure 
 
 ## Difficultés rencontrées : problèmes techniques rencontrés
 
-Problème du mode "NAT" : permet à la 
+Problème du mode "NAT" : permet à la VM d'accéder à Internet sans pour autant obtenir une adresse IP sur le réseau local. C'est le serveur DHCP de VirtualBox qui va attribuer une adresse IP à la machine virtuelle et non le serveur DHCP du réseau local. VirtualBox va donc créée un réseau local virtuel et isolé du reste des machines physiques. 
+
+ou 
+
+Problème du mode "NAT" : Le mode "NAT" permet un accès des machines du réseau virtuel vers l'extérieur, mais ne permet pas l'accès du réseau externe vers les VM. 
 
 ## Solutions trouvées : Solutions et alternatives trouvées
 

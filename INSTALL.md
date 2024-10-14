@@ -58,7 +58,7 @@ Renseigner le nom de la VM. Celui-ci n'a pas d'importance, il vous permettra seu
 
 ![RENSEIGNER_NOM_VM.PNG](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/Images%20doc/RENSEIGNER_NOM_VM.PNG)
 
-Sélectionner l'ISO depuis l'emplacement où vous l'avez téléchargé : 
+Sélectionner l'ISO de security onion précédemment téléchargée : 
 
 ![SELECTIONNER_ISO.PNG](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/Images%20doc/SELECTIONNER_ISO.PNG)
 

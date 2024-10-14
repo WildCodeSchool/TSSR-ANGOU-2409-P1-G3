@@ -4,6 +4,8 @@
 
 - [ Téléchargement de Security Onion Desktop ISO](https://github.com/Security-Onion-Solutions/securityonion/raw/2.4/main/sigs/securityonion-2.4.110-20241004.iso.sig)
 
+![CARACTERISTIQUES_TECHNIQUES_NECESSAIRES.PNG](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/Images%20doc/CARACTERISTIQUES_TECHNIQUES_NECESSAIRES.png)
+
 - 50G de disque libre pour l'import de Security Onion Desktop
 - 
 
@@ -19,13 +21,16 @@ Téléchargement et importation de la clé de signature avec le gestionnaire de 
 
 #### Configuration de la VM
 
-Créer une nouvelle VM
+Depuis le logiciel VirtualBox créer une nouvelle VM :
 
-![VirtualBox_hZqrMLegSK_EDITE](https://github.com/user-attachments/assets/ce6f2f31-5b0a-4fcf-8ead-8ae89b92cfe8)
+![NOUVELLE_VM.PNG](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/Images%20doc/NOUVELLE_VM.PNG)
 
-Renseigner le nom de la VM
+Renseigner le nom de la VM. Celui-ci n'a pas d'importance, il vous permettra seulement de l'identifier parmi vos autres VM : 
 
-Sélectionner l'ISO
+![RENSEIGNER_NOM_VM.PNG](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/Images%20doc/RENSEIGNER_NOM_VM.PNG)
+
+Sélectionner l'ISO depuis l'emplacement où vous l'avez téléchargé : 
+
 
 Définir la quantité de RAM et de Coeurs
 

@@ -25,6 +25,8 @@ Créer une nouvelle VM
 
 Renseigner le nom de la VM
 
+
+
 Sélectionner l'ISO
 
 Définir la quantité de RAM et de Coeurs

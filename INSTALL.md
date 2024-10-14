@@ -6,8 +6,7 @@
 
 ![CARACTERISTIQUES_TECHNIQUES_NECESSAIRES.PNG](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/Images%20doc/CARACTERISTIQUES_TECHNIQUES_NECESSAIRES.png)
 
-- 50G de disque libre pour l'import de Security Onion Desktop
-- 
+La liste complète des prérequis techniques peut être trouvée [ici](https://docs.securityonion.net/en/2.4/hardware.html).
 
 ## Etapes d'installation et de configuration : 
 > Instruction étape par étape

@@ -59,7 +59,7 @@ Le logiciel Security Onion est utilisé dans différents buts. Il permet la traq
 
 ### Logiciels inclus dans Security Onion 
 
-> **SURICATA**, une détection basée sur les signatures, c’est un outil intégré au logiciel Sécurity Onion, un moteur d’alerte qui permet la détection des menaces et d’intrusions réseaux en inspectant le trafic, reporter dans l'onglet Alertes du logiciel. 
+> **SURICATA**, logiciel open source de détection d'intrusion (IDS), de prévention d'intrusion (IPS), une détection basée sur les signatures, intégré au logiciel Sécurity Onion, un moteur d’alerte qui permet la détection des menaces et d’intrusions réseaux en inspectant le trafic, reporter dans l'onglet Alertes de l'interface. 
 
 > **ZEEK, ancien nom BRO** 
 Protocole et l’extraction de fichiers, outil permettant la surveillance réseau, il signale à la fois la perte de paquets et la perte de capture via Stenographer et l’analyse de fichiers via Strelka.

@@ -32,11 +32,22 @@ sélectionner HTTP, pour filtrer les données collectées pour votre réseau.
 Enquête, flexible et rapide des alertes remontées, filtres point d'analyses 
 récupération de données pour détecter les intrusions ou les menaces
 
+> CASES 
+outil de gestion des cas, documentation, partie intégrer au flux du travail 
 
+> PCAP 
+permet la récupération des echantillons, affichage d’un trafic d’un hôte particulier   packets de capture 
 
+> GRID 
 
 > DOWNLOADS :
 Packages et plugins téléchargés. 
+
+
+> ADMINISTRATION :
+* configuration : configurer les aspects du logiciel avec toutes les options, dans l’onglet _Global_ 
+
+
 
 
 

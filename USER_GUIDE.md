@@ -69,7 +69,10 @@ Flux de travail :
 
 ## Utilisation avancée : comment utiliser au mieux les options
 
-Sécurity Onion, permet la sauvegarde quotidienne de certains fichiers afin de pouvoir récupérer ces derniers en cas de panne. Une sauvegarde quotidienne est disponible _/nsm/backup/_ 
+Sécurity Onion, permet la sauvegarde quotidienne de certains fichiers afin de pouvoir récupérer ces derniers en cas de panne. 
+
+
+Une sauvegarde quotidienne est disponible _/nsm/backup/_ 
 
 ![](https://docs.securityonion.net/en/2.4/_images/config-item-backup.png)
 

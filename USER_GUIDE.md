@@ -10,13 +10,32 @@ identifiant et mot de passe
 
  - Bienvenue dans l'interface avec les différents panels et analyse de gestions des alertes et seuil d'alerte, benchmark HIDS
 
-> ALERTES 
-Afficher par type, count,  HIDS, NIDS, possibilité de faire clic droit sur l'alerte ( pour les détails ) 
+> OVERVIEW :
+Ecran de présentation, description, version du logiciel, les nouveautés de la version
 
->  HUNT 
-Alertes remontées, filtres point d'analyses et récupération de données pour détecter les intrusions ou les menaces.
+> ALERTS :
+Centre des différentes alertes générées, afficher par type, count,  HIDS, NIDS
 
-> DOWNLOADS
+> DASHBOARDS ( tableau de bord ) :
+Visualisation simple, graphique et diagramme des anomalies détéctées
+plusieurs tableaux de bords sont disponibles 
+
+<br/>
+
+cliquer sur la flèche pour afficher les informations supplémentaires 
+sélectionner HTTP, pour filtrer les données collectées pour votre réseau. 
+
+![image](https://github.com/user-attachments/assets/ab071ac4-8d84-4f84-8b45-ea250a2c0be7)
+
+
+> HUNT :
+Enquête, flexible et rapide des alertes remontées, filtres point d'analyses 
+récupération de données pour détecter les intrusions ou les menaces
+
+
+
+
+> DOWNLOADS :
 Packages et plugins téléchargés. 
 
 

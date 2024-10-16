@@ -14,8 +14,10 @@ identifiant et mot de passe
 > OVERVIEW :
 Ecran de présentation, description, version du logiciel, les nouveautés de la version
 
-> ALERTS :
-Centre des différentes alertes générées, afficher par type, count,  HIDS, NIDS
+> ALERTS 
+Centre des différentes alertes générées, afficher par type, count,  HIDS, NIDS, permet l’examen des alertes reçues. clic droit >  _DrillDown_ pour avoir des informations 
+
+fleche d’une alerte : toutes les caractéristiques d’une alerte avec le type de journal 
 
 > DASHBOARDS ( tableau de bord ) :
 Visualisation simple, graphique et diagramme des anomalies détéctées
@@ -37,15 +39,16 @@ récupération de données pour détecter les intrusions ou les menaces
 outil de gestion des cas, documentation, partie intégrer au flux du travail 
 
 > PCAP :
-permet la récupération des echantillons, affichage d’un trafic d’un hôte particulier   packets de capture 
+permet la récupération des echantillons, affichage d’un trafic d’un hôte particulier, packets de capture 
 
 > GRID 
 
 > DOWNLOADS :
-Packages et plugins téléchargés. 
+permet l'installation de Packages et de plugins, disponible au téléchargment en fonction du systéme d'exploitation (Windows/Linux/MacOs). 
 
 
 > ADMINISTRATION :
+* users : liste et gestion des utilisateurs avec leurs identifiants.
 * configuration : configurer les aspects du logiciel avec toutes les options, dans l’onglet _Global_ 
 
 

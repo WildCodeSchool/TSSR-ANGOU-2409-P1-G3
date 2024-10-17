@@ -86,8 +86,59 @@ Votre VM est prête.
 ________________
 ### Configuration de l'ISO / OS
 
+Une fois la VM lancée à partir de l'image ISO de Security Onion, le menu de démarrage apparaît :
+
+Un nom d'utilisateur et un mot de passe vous sont demandés :
+
+Une fois ces premières étapes d'installation terminées, vous êtes invité à redémarrer :
+
+Après le redémarrage, connectez-vous avec le nom d'utilisateur et le mot de passe établis précédemment, puis l'installation se déclenchera automatiquement :
+
+L'installation standard est à privilégier : 
+
+Pour cette étape, sélectionnez le type d'installation souhaité (dans le cas d'une utilisation standard, sélectionnez le type "Standalone" :
+
+Si votre VM Security Onion dispose d'un accès Internet complet, sélectionnez Standard (sinon, comme dans notre cas, sélectionnez Airgap) :
+
+Pour continuer veuillez accepter les termes de la licence en tapant "agree" : 
+
+Définissez le nom d'hôte (celui-ci n'a pas vraiment d'importance, il vous permettra toutefois d'identifier cette machine) :
+
+Dans le cas où vous auriez laissé le nom d'hôte par défaut et que vous souhaitez tout de même l'utiliser, sélectionnez "Use anyway" (cependant, si vous décidiez de créer une nouvelle machine, elle ne pourra pas posséder ce même nom d'hôte) :
+
+Dans cette étape, choisissez l'une des deux cartes réseaux établies plus haut : 
+
+Dans notre exemple, une adresse IPv4 statique est demandée, toutefois, si vous avez accès à un réseau fixe (box Internet domicile) l'utilisation du DHCP est possible et la configuration d'une adresse IPv4 fixe sera possible plus tard :
+
+Dans le cas où vous rentrez une adresse fixe, renseignez cette dernière (dans le cadre de notre projet, l'Ipv4 demandée est 172.16.10.10/24) :
+
+Définissez maintenant la passerelle (dans notre cas : 172.16.10.254) :
+
+Renseignez les serveurs DNS (ici les serveurs DNS Google classique) :
+
+Donnez le domaine de recherche DNS (nous avons laissé le nom par défaut ) : 
+
+Par défaut nous avons gardé le Docker IP range : 
+
+Sélectionnez Direct : 
+
+Rentrez une adresse mail qui sera utilisée pour Security Onion Console (SOC) :
+
+Définissez le mot de passe pour Security Onion Console : 
+
+Confirmez le : 
+
+Dans la statégie d'accès, choisissez IP : 
+
+
+
 ________________
 ### Configuration Réseau de l'OS
+
+DHCP sur réseau fixe fonctionne, dans notre cas (réseau campus / partage de connexion mobile) étapes suivantes : 
+
+
+
 configuration réseau de la VM  ?
 
 _____________________________________________________________________________________________________________________________________________________________________________

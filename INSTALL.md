@@ -74,7 +74,7 @@ Sélectionner l'ISO de security onion précédemment téléchargée :
 
 ![SELECTIONNER_ISO.PNG](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/Images%20doc/SELECTIONNER_ISO.PNG)
 
-Définir la quantité de RAM et le nombre de Cɶurs (d'après les prérequis techniques mentionnés plus haut) : 
+Définir la quantité de RAM et le nombre de Cɶurs (d'après les prérequis techniques mentionnés plus haut, dans cet exemple la configuration correspond à la version EVAL) : 
 
 ![RAM_COEURS.PNG](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/Images%20doc/RAM_COEURS.PNG)
 

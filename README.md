@@ -82,9 +82,18 @@ Security Onion propose ElasticSearch, qui assure la collecte des données ainsi 
 
 Problème du mode "NAT" : permet à la VM d'accéder à Internet sans pour autant obtenir une adresse IP sur le réseau local. C'est le serveur DHCP de VirtualBox qui va attribuer une adresse IP à la machine virtuelle et non le serveur DHCP du réseau local. VirtualBox va donc créée un réseau local virtuel et isolé du reste des machines physiques. Le mode "NAT" permet un accès des machines du réseau virtuel vers l'extérieur, mais ne permet pas l'accès du réseau externe vers les VM. 
 
+Problème du mode "Accès par pont" : Une fois l'installation de l'OS terminée et donc le lancement du serveur. Il n'était pas possible de se connecter à l'adresse IPv4 du serveur sur le navigateur.
+
 ## Solutions trouvées : Solutions et alternatives trouvées
 
-Solution mode "NAT" : pour remédier aux problèmes liés à la configuration "NAT" pour l'installation de l'OS, nous avons choisi le mode "d'accès par pont". Ce mode autorise les VM à accéder à Internet, à communiquer entre elles et d'être vues depuis l'extérieur. 
+Solution mode "NAT" : pour remédier aux problèmes liés à la configuration "NAT" pour l'installation de l'OS, nous avons choisi le mode "accès par pont".
+
+Solution mode "Accès par pont" : 
+
+* La machine hôte est l'ordinateur de la personne qui lance le serveur sur son virtualbox : Ouvrir les paramètres Réseau et Internet de l'ordinateur ==> Paramètres réseau avancés ==> Clic gauche la carte réseau VirtualBox Host-Only Ethernet Adapter ==> Modifier ==> Double Clic sur Protocole Internet version 4 (TCP/IPv4) ==> Utiliser l'adresse IP suivante ==> Entrer l'adresse IP : 172.16.10.40 et masque de sous-réseau : 255.255.255.0 ==> OK.
+
+* Configuration de la carte Virtualbox depuis Fichiers ==> Outils ==> Network Manager ==> Clic gauche sur la carte : VirtualBox Host-Only Ethernet Adapter ==> Propriétés ==> Configurer la carte manuellement ==> Lui attribuer l'adresse IPv4 : 172.16.10.50 et masque réseau IPv4 : 255.255.255.0.
+
 
 ### Product Bakclog
 

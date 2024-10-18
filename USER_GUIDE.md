@@ -4,9 +4,9 @@
 
 - Après l'installation du système d'exploitation de Security Onion
   
-- Lancer l'application Security Onion
+- Ouvrez un navigateur web.
   
-- Connectez vous à l'application :
+- Connectez vous à l'interface Security Onion :
 identifiant et mot de passe 
 
  - Bienvenue dans l'interface avec les différents panels et analyse de gestions des alertes et seuil d'alerte, benchmark HIDS

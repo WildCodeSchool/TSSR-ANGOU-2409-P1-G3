@@ -1,4 +1,4 @@
-# Projet 1 - Groupe 3 - Sujet : Plateforme de surveillance de sécurité
+<div align="center"><h1>Projet 1 - Groupe 3 - Sujet : Plateforme de surveillance de sécurité</h1></div>
 
 ## Présentation du projet, objectifs finaux
 

@@ -87,7 +87,7 @@ Votre VM est prête.
 ________________
 ### Configuration de l'ISO / OS
 
-Le DHCP à partir d'un réseau fixe fonctionne, mais dans notre cas (réseau CCI Angoulême / partage de connexion mobile), le choix du DHCP n'est pas pertinent.
+Le DHCP à partir d'un réseau fixe fonctionne, mais dans notre cas (réseau CCI Angoulême / partage de connexion mobile), le choix du DHCP n'est pas pertinent. Pour Security Onion, la mise en place de deux cartes réseaux est nécessaire.
 
 Une fois la VM lancée à partir de l'image ISO de Security Onion, le menu de démarrage apparaît :
 

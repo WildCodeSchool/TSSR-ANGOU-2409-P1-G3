@@ -87,7 +87,7 @@ Votre VM est prête.
 ________________
 ### Configuration de l'ISO / OS
 
-DHCP sur réseau fixe fonctionne, dans notre cas (réseau campus / partage de connexion mobile) étapes suivantes : 
+Le DHCP à partir d'un réseau fixe fonctionne, mais dans notre cas (réseau CCI Angoulême / partage de connexion mobile), le choix du DHCP n'est pas pertinent.
 
 Une fois la VM lancée à partir de l'image ISO de Security Onion, le menu de démarrage apparaît :
 

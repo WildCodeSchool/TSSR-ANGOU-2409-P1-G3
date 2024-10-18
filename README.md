@@ -72,11 +72,6 @@ Security Onion propose ElasticSearch, qui assure la collecte des données ainsi 
 
 > **ZEEK, ancien nom BRO** : Protocole et l’extraction de fichiers, outil permettant la surveillance réseau, il signale à la fois la perte de paquets et la perte de capture via Stenographer et l’analyse de fichiers via Strelka. 
 
-> **WAZUH** : HIDS Host Intrusion Detection Systems, puissant système de détection d'intrusions machine basé sur OSSEC.
-
-> **STENOGRAPHER**  : outil de capture de paquets, et d'analyse détection d'intrusion et d'incidents. 
-
-
 
 ## Difficultés rencontrées : problèmes techniques rencontrés
 

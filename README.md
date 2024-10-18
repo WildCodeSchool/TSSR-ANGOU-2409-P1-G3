@@ -85,6 +85,8 @@ Solution mode "NAT" : pour remédier aux problèmes liés à cette configuration
 
 Solution mode "Accès par pont" : 
 
+* Passer la carte réseau de l'OS Serveur en "Réseau privé hôte".
+
 * La machine hôte est l'ordinateur de la personne qui lance le serveur sur son virtualbox : Ouvrir les paramètres Réseau et Internet de l'ordinateur ==> Paramètres réseau avancés ==> Clic gauche la carte réseau VirtualBox Host-Only Ethernet Adapter ==> Modifier ==> Double Clic sur Protocole Internet version 4 (TCP/IPv4) ==> Utiliser l'adresse IP suivante ==> Entrer l'adresse IP : 172.16.10.40 et masque de sous-réseau : 255.255.255.0 ==> OK.
 
 * Configuration de la carte Virtualbox depuis Fichiers ==> Outils ==> Network Manager ==> Clic gauche sur la carte : VirtualBox Host-Only Ethernet Adapter ==> Propriétés ==> Configurer la carte manuellement ==> Lui attribuer l'adresse IPv4 : 172.16.10.50/24 et masque réseau IPv4 : 255.255.255.0.

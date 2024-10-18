@@ -87,6 +87,8 @@ Votre VM est prête.
 ________________
 ### Configuration de l'ISO / OS
 
+DHCP sur réseau fixe fonctionne, dans notre cas (réseau campus / partage de connexion mobile) étapes suivantes : 
+
 Une fois la VM lancée à partir de l'image ISO de Security Onion, le menu de démarrage apparaît :
 
 Un nom d'utilisateur et un mot de passe vous sont demandés :
@@ -130,21 +132,6 @@ Définissez le mot de passe pour Security Onion Console :
 Confirmez le : 
 
 Dans la statégie d'accès, choisissez IP : 
-
-
-
-________________
-### Configuration Réseau de l'OS
-
-DHCP sur réseau fixe fonctionne, dans notre cas (réseau campus / partage de connexion mobile) étapes suivantes : 
-
-
-
-configuration réseau de la VM  ?
-
-_____________________________________________________________________________________________________________________________________________________________________________
-## Installation du logiciel Security Onion
-
 ________________
 ### Configuration Administrateur
 

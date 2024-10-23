@@ -87,7 +87,43 @@ Votre VM est prête.
 
 **Configuration des paramètres réseaux de la VM**
 
-Pour Security Onion, la mise en place de deux cartes réseaux est nécessaire (les paramètres qui vont être sélectionnés correspondent à une installation sur un réseau local).
+Pour l'installation du serveur Security Onion, la mise en place de deux cartes réseaux est nécessaire (les paramètres qui vont être sélectionnés correspondent à une installation sur un réseau local).
+
+Cliquer sur la VM dont il est question, une fois fait allez dans la partie "Configuration" :
+
+Passez en configuration "Expert" :
+
+Accédez à la rubrique "Réseau" :
+
+Dans l'adapater 1 :
+  - Cochez "Activer l'interface réseau"
+  - Choisissez le Mode d'accès réseau "Accès par pont"
+
+Dans l'adapter 2 :
+- Cochez également "Activer l'interface réseau"
+- Choisissez le Mode d'accès "Réseau interne"
+
+Une fois l'installation terminée, vous allez devoir modifier ces paramètres réseaux pour permettre la communication de votre machine hôte et/ou d'une VM cliente avec votre serveur.
+
+Pour se faire :
+
+La machine hôte est l'ordinateur de la personne qui lance le serveur sur son virtualbox : 
+Ouvrir les paramètres Réseau et Internet de l'ordinateur ==> 
+Paramètres réseau avancés ==> 
+Clic gauche la carte réseau VirtualBox Host-Only Ethernet Adapter ==> 
+Modifier ==> 
+Double Clic sur Protocole Internet version 4 (TCP/IPv4) ==> 
+Utiliser l'adresse IP suivante ==> 
+Entrer l'adresse IP : 172.16.10.40 et masque de sous-réseau : 255.255.255.0 ==> 
+OK.
+
+Configuration de la carte Virtualbox depuis Fichiers ==> 
+Outils ==> 
+Network Manager ==> 
+Clic gauche sur la carte : VirtualBox Host-Only Ethernet Adapter ==> 
+Propriétés ==> 
+Configurer la carte manuellement ==> 
+Lui attribuer l'adresse IPv4 : 172.16.10.50/24 et masque réseau IPv4 : 255.255.255.0.
 
 
 
@@ -143,13 +179,35 @@ Dans la statégie d'accès, choisissez IP :
 ________________
 ### Configuration Administrateur
 
+Lors de l'étape précédente, le compte administrateur a été initié :
+
+L'adresse que vous avez rentrée à cette étape :
+
+Le mot de passe que vous avez mis en place à cette étape + sa confirmation :
 ________________
 ### Configuration nouvel utilisateur
+
+Accès au logiciel Security Onion :
+
+Cliquez sur "" : 
+
+Puis sur "" : 
+
+Rentrez les informations pour un nouvel utilisateur : 
+
 
 _____________________________________________________________________________________________________________________________________________________________________________
 ## FAQ : solutions aux problèmes connues et communs liés à l'installation et à la configuration
 
 Comment dois-je configurer les paramètres réseaux de ma VM ?
+
+Les paramètres réseaux si machine hôte ?
+
+Les paramètres réseaux si VM Client ?
+
+Comment me connecter en tant qu'administrateur  ?
+
+Comment gérer les utilisateurs non administrateur ?
 
 Comment vérifier les clés ISO ?
 

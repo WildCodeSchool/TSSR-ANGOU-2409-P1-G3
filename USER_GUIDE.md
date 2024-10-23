@@ -40,7 +40,7 @@ Flux de travail :
 - Alertes et examinez les alertes non reconnues (cliquez sur alertes
   
 - Consultez le tableau de bord
-  # SYNTHETISER
+  # SYNTHETISER le menu déroulan
 cliquer sur la flèche pour afficher les informations supplémentaires 
 sélectionner HTTP, pour filtrer les données collectées pour votre réseau. 
 
@@ -62,6 +62,9 @@ permet la récupération des echantillons, affichage d’un trafic d’un hôte 
 permet l'installation de Packages et de plugins, disponible au téléchargment en fonction du systéme d'exploitation (Windows/Linux/MacOs). 
   
  ![Dashboard _ SecurityOnion](https://docs.securityonion.net/en/2.4/_images/53_dashboards.png)
+
+ déscendre pour consulter le journal
+ exemple d'evennement (connexion failur) 
 
  - Clic droit sur une alerte pour en connaître les détails, toutes les informations concernant la menace. 
   
@@ -90,6 +93,6 @@ ainsi une duplication de sauvegarde est possible vers un emplacement extérieur.
 
 
 ## FAQ : solutions aux problèmes connus et communs liés à l'utilisation
-Matth "comment puis je utiliser tel outil ?"
-Matth "comment puis je surveiller cet objet ?"
+"comment puis je utiliser tel outil ?"
+"comment puis je surveiller cet objet ?"
 "reformuler sous forme de question la doc déjà présente"

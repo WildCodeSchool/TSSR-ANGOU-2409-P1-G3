@@ -67,7 +67,7 @@ __________________________________________________________________________
 
 ### Logiciels inclus dans Security Onion 
 
-Security Onion contient plusieurs outils de NSM ( Network Security Monitoring )
+Security Onion comprends plusieurs outils de NSM ( Network Security Monitoring ).
 
 > **ELASTIC SEARCH** 
 Security Onion propose ElasticSearch, qui assure la collecte des données ainsi le moteur, utilisé pour l'analyse et la visualisation des journaux, la recherche en texte intégral, la veille sécuritaire, l'analytique commerciale et l'intelligence opérationnelle. les requêtes en direct via osquery et la gestion centralisée à l’aide d’Elastic Fleet. Elasticsearch est devenu le moteur de recherche d’entreprise le plus populaire. 

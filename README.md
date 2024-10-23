@@ -2,16 +2,15 @@
 
 ## Présentation du projet, objectifs finaux
 
-Le but principal est la mise en place d'une plateforme de surveillance réseau, par l'installation du logiciel Security Onion, outil de détection et de réponses aux menaces qui vise à renforcer la sécurité des réseaux informatiques. 
-
-Un objectif secondaire est proposé et consiste à initier des règles de détection d'intrusion.
+Le but principal de ce projet est la mise en place d'une plateforme de surveillance réseau, via l'installation du logiciel Security Onion et la mise en service d'un réseau pour en comprendre son utilisation et ses capacités mais egalement d'initier des règles de détection d'intrusion afin de prévenir les eventuelles menaces et d'en atténuer les riques.
 
 ## Introduction : Mise en contexte
 
-Dans un monde où la cybersécurité prend de plus en plus de place et d'importance, certains logiciels permettent d'assurer une meilleure sécurité des infrastructures réseaux. 
+Dans un monde où la cybersécurité prend de plus en plus de place et d'importance, une plateforme de cybersécurité est devenu essentielle pour une entreprise dont certains logiciels permettent d'assurer une meilleure sécurité des infrastructures réseaux. 
 
-C'est le cas du logiciel Security Onion, développé pour répondre aux attentes des entreprises depuis l'attaque de Wannacry en 2017. Cet outil est utilisé dans différents buts. Il est dédié notemment à la surveillance du réseau en traquant les activités suspectes tels que les accès non autorisés, les logiciels malveillants ou tout comportement suspect. Il garantit la surveillance de la sécurité des entreprises et la gestion des journaux. Distribué par l'OS Linux, c'est un logiciel open source téléchargé aujourd'hui par plus de deux millions d'utilisateurs. 
+> D'après Forbes : 59 % des employés utilisent encore leur nom d’utilisateur et leur mot de passe comme principal moyen d’authentification de leurs comptes. 3 milliards d’e-mails de phishing sont envoyés dans le monde chaque jour.
 
+C'est le cas de Security Onion, outil de détection et de réponses aux menaces d'intrusions visant à renforcer la sécurité des réseaux informatiques. Développé pour répondre aux attentes des entreprises depuis l'attaque de Wannacry en 2017. Cet outil est utilisé dans différents buts. Il est dédié notemment à la surveillance du réseau en traquant les activités suspectes tels que les accès non autorisés, les logiciels malveillants ou tout comportement suspect. Il garantit la surveillance de la sécurité des entreprises et la gestion des journaux. Distribué par l'OS Linux, c'est un logiciel open source téléchargé aujourd'hui par plus de deux millions d'utilisateurs. 
 
 ## Membres du groupe de projet (rôle par sprint)
 
@@ -49,7 +48,7 @@ C'est le cas du logiciel Security Onion, développé pour répondre aux attentes
 
 ## Introduction au logiciel Security Onion 
 
-Security Onion est une distribution open-source, basé sur Linux, il est recommandé d'utiliser Ubuntu ou CentOS afin de garantir une compatibilité optimale. Son architecture conçue pour une surveillance multidimensionnelle par couches, tel un oignon permettant l'analyse du trafic réseau, la collecte des données, et les alertes sur les menaces potentielles en temps réel.
+Security Onion est une distribution open-source Linux, il est recommandé d'avoir comme système d'exploitation Ubuntu afin de garantir une compatibilité optimale. Son architecture conçue par couches tel un oignon, garanti une surveillance multidimensionnelle et permettant ainsi l'analyse du trafic réseau, la collecte des données, et les alertes sur les menaces potentielles en temps réel.
 
 - Politiques, procédures, sensibilisation
 - Sécurité physique

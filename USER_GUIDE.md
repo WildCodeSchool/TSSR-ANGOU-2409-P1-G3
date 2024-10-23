@@ -1,13 +1,14 @@
 <div align="center"><h1>Documentation Utilisateur</h1></div>
 
-## Logiciel Sécurity Onion 
+## Se connecter à l'interface de Sécurity Onion 
 
-- Après l'installation du système d'exploitation de Security Onion
+- Une fois Security Onion installé :
   
-- Ouvrez un navigateur web.
+- Ouvrez un navigateur web (IMAGE)
   
 - Connectez vous à l'interface Security Onion :
-identifiant et mot de passe 
+identifiant et mot de passe (IMAGE)
+
 
  - Bienvenue dans l'interface avec les différents panels et analyse de gestions des alertes et seuil d'alerte, benchmark HIDS
 

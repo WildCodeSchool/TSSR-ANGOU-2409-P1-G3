@@ -2,7 +2,7 @@
 
 ## Présentation du projet, objectifs finaux
 
-Le but principal est la mise en place d'une plateforme de surveillance réseau
+Le but principal est la mise en place d'une plateforme de surveillance réseau, via le logiciel Security Onion, outil permettant l'
 
 L'objectif principal de ce projet est de mettre en place une plateforme de surveillance réseau, via l'utilisation du logiciel Security Onion, tout en réalisant une documentation complète et correcte.
 
@@ -49,7 +49,10 @@ C'est le cas du logiciel Security Onion. Cet outil est utilisé dans différents
 
 
 ## Introduction au logiciel Security Onion 
-- Policies, procedures, awarenesss 
+
+Security Onion est une distribution open-source, basé sur Linux, il est recommandé d'utiliser les sytèmes d'exploitations Ubuntu ou CentOS pour garantir une compatibilité optimale. Son architecture conçue pour une surveillance multidimensionnelle. Elle comprend des couches, tel un oignon qui analysent le trafic réseau, collectent des données, et fournissent des alertes en temps réel sur les menaces potentielles.
+
+- Politiques, procédures, sensibilisation
 - Sécurité physique
 - Sécurité de périmètre
 - Réseau interne
@@ -66,7 +69,7 @@ __________________________________________________________________________
 
 ### Logiciels inclus dans Security Onion 
 
-Security Onion est une distribution open-source, basé sur Linux, il est recommandé d'utiliser les sytèmes d'exploitations Ubuntu ou CentOS pour garantir une compatibilité optimale. Son architecture conçue pour une surveillance multidimensionnelle. Elle comprend des couches, tel un oignon qui analysent le trafic réseau, collectent des données, et fournissent des alertes en temps réel sur les menaces potentielles. contient plusieurs outils de NSM ( Network Security Monitoring ).
+Security Onion contient plusieurs outils de NSM ( Network Security Monitoring ).
 
 > **ELASTIC SEARCH** 
 Security Onion propose ElasticSearch, qui assure la collecte des données ainsi le moteur, utilisé pour l'analyse et la visualisation des journaux, la recherche en texte intégral, la veille sécuritaire, l'analytique commerciale et l'intelligence opérationnelle. les requêtes en direct via osquery et la gestion centralisée à l’aide d’Elastic Fleet. Elasticsearch est devenu le moteur de recherche d’entreprise le plus populaire. 

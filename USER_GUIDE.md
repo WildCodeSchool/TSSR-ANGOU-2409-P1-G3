@@ -12,7 +12,7 @@ identifiant et mot de passe (IMAGE)
 =======================================================
 # Présentation de l'interface utilisateur
 
- - Bienvenue dans l'interface avec les différents panels et analyse de gestions des alertes et seuil d'alerte, benchmark HIDS
+ - Bienvenue dans l'interface avec les différents panels et analyse de gestions des alertes et seuil d'alerte.
 
 > OVERVIEW : IMAGE
 Ecran de présentation, description, version du logiciel, les nouveautés de la version
@@ -25,6 +25,16 @@ fleche d’une alerte : toutes les caractéristiques d’une alerte avec le type
 > DASHBOARDS ( tableau de bord ) : IMAGE
 Visualisation simple, graphique et diagramme des anomalies détéctées
 plusieurs tableaux de bords sont disponibles 
+
+> HUNT IMAGE
+Enquête, flexible et rapide des alertes remontées, filtres point d'analyses récupération de données pour détecter les intrusions ou les menaces
+
+> CASES :
+outil de gestion des cas, documentation, partie intégrer au flux du travail
+
+
+> GRID :
+
 
 ===============================================
 # A SUPPRIMER
@@ -46,22 +56,7 @@ sélectionner HTTP, pour filtrer les données collectées pour votre réseau.
 
 ![image](https://github.com/user-attachments/assets/ab071ac4-8d84-4f84-8b45-ea250a2c0be7)
 
-> HUNT :
-Enquête, flexible et rapide des alertes remontées, filtres point d'analyses 
-récupération de données pour détecter les intrusions ou les menaces
-
-> CASES :
-outil de gestion des cas, documentation, partie intégrer au flux du travail 
-
-> PCAP :
-permet la récupération des echantillons, affichage d’un trafic d’un hôte particulier, packets de capture 
-
-> GRID 
-
-> DOWNLOADS :
-permet l'installation de Packages et de plugins, disponible au téléchargment en fonction du systéme d'exploitation (Windows/Linux/MacOs). 
-  
- ![Dashboard _ SecurityOnion](https://docs.securityonion.net/en/2.4/_images/53_dashboards.png)
+![Dashboard _ SecurityOnion](https://docs.securityonion.net/en/2.4/_images/53_dashboards.png)
 
  déscendre pour consulter le journal
  exemple d'evennement (connexion failur) 

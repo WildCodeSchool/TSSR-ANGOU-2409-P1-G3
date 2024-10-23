@@ -2,16 +2,16 @@
 
 ## Présentation du projet, objectifs finaux
 
-Le but principal est la mise en place d'une plateforme de surveillance réseau, via le logiciel Security Onion, outil permettant l'
-
+Le but principal est la mise en place d'une plateforme de surveillance réseau, via le logiciel Security Onion,
 L'objectif principal de ce projet est de mettre en place une plateforme de surveillance réseau, via l'utilisation du logiciel Security Onion, tout en réalisant une documentation complète et correcte.
 
 Un objectif secondaire est proposé et consiste à initier des règles de détection d'intrusion.
 
 ## Introduction : Mise en contexte
 
-Dans un monde où la cybersécurité prend de plus en plus de place et d'importance, certains logiciels permettent d'assurer une meilleure sécurité des infrastructures réseaux.
-C'est le cas du logiciel Security Onion. Cet outil est utilisé dans différents buts. Il est dédié notemment à la surveillance du réseau en traquant les activités suspectes tels que les accès non autorisés, les logiciels malveillants ou tout comportement suspect. Il garantit la surveillance de la sécurité des entreprises et la gestion des journaux. Distribué par l'OS Linux, c'est un logiciel open source téléchargé aujourd'hui par plus de deux millions d'utilisateurs. 
+Dans un monde où la cybersécurité prend de plus en plus de place et d'importance, certains logiciels permettent d'assurer une meilleure sécurité des infrastructures réseaux
+
+C'est le cas du logiciel Security Onion, développé pour répondre aux attentes des entreprises depuis l'attaque de Wannacry en 2017. Cet outil est utilisé dans différents buts. Il est dédié notemment à la surveillance du réseau en traquant les activités suspectes tels que les accès non autorisés, les logiciels malveillants ou tout comportement suspect. Il garantit la surveillance de la sécurité des entreprises et la gestion des journaux. Distribué par l'OS Linux, c'est un logiciel open source téléchargé aujourd'hui par plus de deux millions d'utilisateurs. 
 
 
 ## Membres du groupe de projet (rôle par sprint)
@@ -50,7 +50,7 @@ C'est le cas du logiciel Security Onion. Cet outil est utilisé dans différents
 
 ## Introduction au logiciel Security Onion 
 
-Security Onion est une distribution open-source, basé sur Linux, il est recommandé d'utiliser les sytèmes d'exploitations Ubuntu ou CentOS pour garantir une compatibilité optimale. Son architecture conçue pour une surveillance multidimensionnelle. Elle comprend des couches, tel un oignon qui analysent le trafic réseau, collectent des données, et fournissent des alertes en temps réel sur les menaces potentielles.
+Security Onion est une distribution open-source, basé sur Linux, il est recommandé d'utiliser les sytèmes d'exploitations Ubuntu ou CentOS pour garantir une compatibilité optimale. Son architecture conçue pour une surveillance multidimensionnelle par couches, tel un oignon permettant l' analyse du trafic réseau, la collecte des données, et les alertes en temps réel sur les menaces potentielles.
 
 - Politiques, procédures, sensibilisation
 - Sécurité physique

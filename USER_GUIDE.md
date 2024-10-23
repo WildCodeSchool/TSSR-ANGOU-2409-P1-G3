@@ -12,15 +12,15 @@ identifiant et mot de passe (IMAGE)
 
  - Bienvenue dans l'interface avec les différents panels et analyse de gestions des alertes et seuil d'alerte, benchmark HIDS
 
-> OVERVIEW :
+> OVERVIEW : IMAGE
 Ecran de présentation, description, version du logiciel, les nouveautés de la version
 
-> ALERTS 
+> ALERTS IMAGE
 Centre des différentes alertes générées, afficher par type, count,  HIDS, NIDS, permet l’examen des alertes reçues. clic droit >  _DrillDown_ pour avoir des informations 
 
 fleche d’une alerte : toutes les caractéristiques d’une alerte avec le type de journal 
 
-> DASHBOARDS ( tableau de bord ) :
+> DASHBOARDS ( tableau de bord ) : IMAGE
 Visualisation simple, graphique et diagramme des anomalies détéctées
 plusieurs tableaux de bords sont disponibles 
 

@@ -84,10 +84,18 @@ Définir l'espace disque requis pour le bon fonctionnement de la VM :
 ![ESPACE_DISQUE.PNG](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/Images%20doc/ESPACE_DISQUE.PNG)
 
 Votre VM est prête.
+
+**Configuration des paramètres réseaux de la VM**
+
+Pour Security Onion, la mise en place de deux cartes réseaux est nécessaire (les paramètres qui vont être sélectionnés correspondent à une installation sur un réseau local).
+
+
+
+
 ________________
 ### Configuration de l'ISO / OS
 
-Le DHCP à partir d'un réseau fixe fonctionne, mais dans notre cas (réseau CCI Angoulême / partage de connexion mobile), le choix du DHCP n'est pas pertinent. Pour Security Onion, la mise en place de deux cartes réseaux est nécessaire.
+Le DHCP à partir d'un réseau fixe fonctionne, mais dans notre cas (réseau CCI Angoulême / partage de connexion mobile), le choix du DHCP n'est pas pertinent. 
 
 Une fois la VM lancée à partir de l'image ISO de Security Onion, le menu de démarrage apparaît :
 
@@ -140,3 +148,11 @@ ________________
 
 _____________________________________________________________________________________________________________________________________________________________________________
 ## FAQ : solutions aux problèmes connues et communs liés à l'installation et à la configuration
+
+Comment dois-je configurer les paramètres réseaux de ma VM ?
+
+Comment vérifier les clés ISO ?
+
+Quelle version de Security Onion dois-je utiliser ?
+
+

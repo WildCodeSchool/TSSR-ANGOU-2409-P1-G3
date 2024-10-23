@@ -50,7 +50,7 @@ C'est le cas du logiciel Security Onion, développé pour répondre aux attentes
 
 ## Introduction au logiciel Security Onion 
 
-Security Onion est une distribution open-source, basé sur Linux, il est recommandé d'utiliser les sytèmes d'exploitations Ubuntu ou CentOS pour garantir une compatibilité optimale. Son architecture conçue pour une surveillance multidimensionnelle par couches, tel un oignon permettant l' analyse du trafic réseau, la collecte des données, et les alertes en temps réel sur les menaces potentielles.
+Security Onion est une distribution open-source, basé sur Linux, il est recommandé d'utiliser une installation sur les sytèmes d'exploitations Ubuntu ou CentOS afin de garantir une compatibilité optimale. Son architecture conçue pour une surveillance multidimensionnelle par couches, tel un oignon permettant l'analyse du trafic réseau, la collecte des données, et les alertes sur les menaces potentielles en temps réel.
 
 - Politiques, procédures, sensibilisation
 - Sécurité physique
@@ -69,7 +69,7 @@ __________________________________________________________________________
 
 ### Logiciels inclus dans Security Onion 
 
-Security Onion contient plusieurs outils de NSM ( Network Security Monitoring ).
+Security Onion contient plusieurs outils de NSM ( Network Security Monitoring )
 
 > **ELASTIC SEARCH** 
 Security Onion propose ElasticSearch, qui assure la collecte des données ainsi le moteur, utilisé pour l'analyse et la visualisation des journaux, la recherche en texte intégral, la veille sécuritaire, l'analytique commerciale et l'intelligence opérationnelle. les requêtes en direct via osquery et la gestion centralisée à l’aide d’Elastic Fleet. Elasticsearch est devenu le moteur de recherche d’entreprise le plus populaire. 

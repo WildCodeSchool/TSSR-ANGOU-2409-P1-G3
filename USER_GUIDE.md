@@ -9,6 +9,8 @@
 - Connectez vous à l'interface Security Onion :
 identifiant et mot de passe (IMAGE)
 
+=======================================================
+# Présentation de l'interface utilisateur
 
  - Bienvenue dans l'interface avec les différents panels et analyse de gestions des alertes et seuil d'alerte, benchmark HIDS
 
@@ -24,13 +26,25 @@ fleche d’une alerte : toutes les caractéristiques d’une alerte avec le type
 Visualisation simple, graphique et diagramme des anomalies détéctées
 plusieurs tableaux de bords sont disponibles 
 
-<br/>
+===============================================
+# A SUPPRIMER
+> ADMINISTRATION :
+* users : liste et gestion des utilisateurs avec leurs identifiants.
+* configuration : configurer les aspects du logiciel avec toutes les options, dans l’onglet _Global_ 
+===============================================
 
+
+## Utilisation de base : Comment utiliser les fonctionnalités clés
+
+Flux de travail : 
+- Alertes et examinez les alertes non reconnues (cliquez sur alertes
+  
+- Consultez le tableau de bord
+  # SYNTHETISER
 cliquer sur la flèche pour afficher les informations supplémentaires 
 sélectionner HTTP, pour filtrer les données collectées pour votre réseau. 
 
 ![image](https://github.com/user-attachments/assets/ab071ac4-8d84-4f84-8b45-ea250a2c0be7)
-
 
 > HUNT :
 Enquête, flexible et rapide des alertes remontées, filtres point d'analyses 
@@ -46,23 +60,6 @@ permet la récupération des echantillons, affichage d’un trafic d’un hôte 
 
 > DOWNLOADS :
 permet l'installation de Packages et de plugins, disponible au téléchargment en fonction du systéme d'exploitation (Windows/Linux/MacOs). 
-
-
-> ADMINISTRATION :
-* users : liste et gestion des utilisateurs avec leurs identifiants.
-* configuration : configurer les aspects du logiciel avec toutes les options, dans l’onglet _Global_ 
-
-
-
-
-
-
-## Utilisation de base : Comment utiliser les fonctionnalités clés
-
-Flux de travail : 
-- Alertes et examinez les alertes non reconnues
-  
-- Consultez le tableau de bord
   
  ![Dashboard _ SecurityOnion](https://docs.securityonion.net/en/2.4/_images/53_dashboards.png)
 

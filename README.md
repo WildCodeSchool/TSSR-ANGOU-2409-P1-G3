@@ -2,6 +2,8 @@
 
 ## Présentation du projet, objectifs finaux
 
+
+
 L'objectif principal de ce projet est de mettre en place une plateforme de surveillance réseau, via l'utilisation du logiciel Security Onion, tout en réalisant une documentation complète et correcte.
 
 Un objectif secondaire est proposé et consiste à initier des règles de détection d'intrusion.
@@ -33,10 +35,11 @@ C'est le cas du logiciel Security Onion. Cet outil est utilisé dans différents
 > Axel Charpentier : _Technicien_  
 
 ## Outils utilisés
-
-- [Miro](https://miro.com/app/board/uXjVLUlrqs8=/) est un espace de travail collaboratif en lien avec la gestion de projet.
-- [Discord](https://discord.com/) est un logiciel de communication (VoIP) et de messagerie instantanée.
-- [Github](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3) est une plateforme collaborative qui permet de stocker et d'éditer du code pour différents projets.
+| Outils    | Description      |
+|---    |:-:    |
+| [Miro](https://miro.com/app/board/uXjVLUlrqs8=/)      | Espace de travail collaboratif en lien avec la gestion de projet      |
+| [Discord](https://discord.com/)      | Logiciel de communication (VoIP) et de messagerie instantanée      |
+| [Github](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3)      | Plateforme collaborative qui permet de stocker et d'éditer du code pour différents projets      |
 
 ## Choix techniques : quel OS, quelle version, etc
 

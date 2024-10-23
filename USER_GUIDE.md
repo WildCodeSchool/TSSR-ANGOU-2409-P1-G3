@@ -94,3 +94,4 @@ ainsi une duplication de sauvegarde est possible vers un emplacement extérieur.
 ## FAQ : solutions aux problèmes connus et communs liés à l'utilisation
 Matth "comment puis je utiliser tel outil ?"
 Matth "comment puis je surveiller cet objet ?"
+"reformuler sous forme de question la doc déjà présente"

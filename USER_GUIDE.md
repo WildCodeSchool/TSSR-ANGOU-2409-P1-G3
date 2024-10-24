@@ -89,22 +89,10 @@ Cliquez sur l'icone symbolisant une cible pour lancer la stratégie et être aut
 
 ![image](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/PHOTOS_USER/detection_pannel_majfiltre_lancer-alert.png)
 
-  
-- Passer à Hunt, interface qui cible plus précisemmment les requêtes en regroupant plusieurs champs du Tableau de bord, etudiez et étendre votre recherche, les journaux supplémentaires relatifs aux adresses IP source et de destination.
-  
-## Utilisation avancée : comment utiliser au mieux les options
-
-Sécurity Onion, permet la sauvegarde quotidienne de certains fichiers afin de pouvoir récupérer ces derniers en cas de panne. 
-
-
-Une sauvegarde quotidienne est disponible _/nsm/backup/_ 
-
-![](https://docs.securityonion.net/en/2.4/_images/config-item-backup.png)
-
-ainsi une duplication de sauvegarde est possible vers un emplacement extérieur. Cependant les données ElasticSearch ne sont pas sauvegardeés automatiquement.
-
-
 ## FAQ : solutions aux problèmes connus et communs liés à l'utilisation
-"comment puis je utiliser tel outil ?"
-"comment puis je surveiller cet objet ?"
-"reformuler sous forme de question la doc déjà présente"
+
+Comment accéder à l'interface de mon server Security Onion ?
+Puis-je rechercher spécifiquement certains événements de l'activité de mon réseaux grâce au logiciel Security Onion ?
+Comment afficher les echecs de connexion aux équipements de mon réseau ?
+Est-il possible de vérifier l'état d'une node de mon réseau avec Security Onion ?
+Est-il possible d'installer une node IDH avec Security Onion ?

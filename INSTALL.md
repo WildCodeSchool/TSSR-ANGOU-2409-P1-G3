@@ -277,7 +277,7 @@ En renseignant les bons identifiants, vous arriverez sur cette page :
 
 ![CONNEXION_REUSSIE.png](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/PHOTO_ADMIN/CONNEXION_REUSSIE.png)
 
-Vous êtes connecté !
+Vous êtes connecté 0 l'interface Web !
 ________________
 ### Configuration nouvel utilisateur sur la web interface
 

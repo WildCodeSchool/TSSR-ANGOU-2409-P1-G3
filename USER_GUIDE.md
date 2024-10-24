@@ -92,11 +92,21 @@ Cliquez sur l'icone symbolisant une cible pour lancer la stratégie et être aut
 ## FAQ : solutions aux problèmes connus et communs liés à l'utilisation
 
 __Q : Comment accéder à l'interface de mon server Security Onion ?__
+
   - R :
+
 __Q : Puis-je rechercher spécifiquement certains événements de l'activité de mon réseaux grâce au logiciel Security Onion ?__
+
   - R :
+
 __Q : Comment afficher les echecs de connexion aux équipements de mon réseau ?__
+
   - R :
+
 __Q : Est-il possible de vérifier l'état d'une node de mon réseau avec Security Onion ?__
+
   - R :
+    
 __Q : Est-il possible d'installer une node IDH avec Security Onion ?__
+
+ - R :

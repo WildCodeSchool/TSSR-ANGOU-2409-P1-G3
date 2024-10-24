@@ -5,12 +5,17 @@
 
 - [ Téléchargement de Security Onion Desktop ISO](https://github.com/Security-Onion-Solutions/securityonion/raw/2.4/main/sigs/securityonion-2.4.110-20241004.iso.sig)
 
-Dans le cas d'une utilisation standard, il vous faut allouer :
+Dans le cas d'une utilisation _STANDALONE_, il vous faut allouer :
 * 4 cɶurs
 * 16 Gb RAM
 * 200 Gb de stockage (SSD préférable, mais un HDD conviendra)
 
-La liste complète des prérequis techniques peut être trouvée [ici](https://docs.securityonion.net/en/2.4/hardware.html).
+Dans notre situation, utilisation d'une version _EVAL_ :
+* 4 cɶurs
+* 8 Gb RAM
+* 200 Gb de stockage
+
+La liste complète des prérequis techniques en fonction du type d'installation peut être trouvée [ici](https://docs.securityonion.net/en/2.4/hardware.html).
 _____________________________________________________________________________________________________________________________________________________________________________
 ## Etapes d'installation et de configuration : 
 > Instruction étape par étape
@@ -44,7 +49,7 @@ L'emprunte de la clé primaire doit correspondre à :
 ```bash
 Primary key fingerprint: C804 A93D 36BE 0C73 3EA1  9644 7C10 60B7 FE50 7013
 ```
-
+________________
 **Windows :**
 
 Dans un premier temps, téléchargez l'ISO [ici](https://download.securityonion.net/file/securityonion/securityonion-2.4.110-20241004.iso).
@@ -84,7 +89,7 @@ Définir l'espace disque requis pour le bon fonctionnement de la VM :
 ![ESPACE_DISQUE.PNG](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/Images%20doc/ESPACE_DISQUE.PNG)
 
 Votre VM est prête.
-
+________________
 **Configuration des paramètres réseaux de la VM**
 
 Pour l'installation du serveur Security Onion, la mise en place de deux cartes réseaux est nécessaire (les paramètres qui vont être sélectionnés correspondent à une installation sur un réseau local).
@@ -151,55 +156,107 @@ Le DHCP à partir d'un réseau fixe fonctionne, mais dans notre cas (réseau CCI
 
 Une fois la VM lancée à partir de l'image ISO de Security Onion, le menu de démarrage apparaît :
 
-Un nom d'utilisateur et un mot de passe vous sont demandés :
+![MENU_DEMARRAGE.png](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/PHOTO_ADMIN/MENU_DEMARRAGE.png)
+
+Tapez "yes" pour continuer l'installation :
+
+![YES_TO_PROCEED.png](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/PHOTO_ADMIN/YES_TO_PROCEED.png)
+
+Un nom d'hÔte utilisateur et un mot de passe vous sont demandés :
+
+![HOST_LOGIN.png](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/PHOTO_ADMIN/HOST_LOGIN.png)
+![SET_PASSWORD.png](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/PHOTO_ADMIN/SET_PASSWORD.png)
 
 Une fois ces premières étapes d'installation terminées, vous êtes invité à redémarrer :
 
+![INSTALL_COMPLETE.png](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/PHOTO_ADMIN/INSTALL_COMPLETE.png)
+
 Après le redémarrage, connectez-vous avec le nom d'utilisateur et le mot de passe établis précédemment, puis l'installation se déclenchera automatiquement :
 
-L'installation standard est à privilégier : 
+![]()
 
-Pour cette étape, sélectionnez le type d'installation souhaité (dans le cas d'une utilisation standard, sélectionnez le type "Standalone" :
+L'installation _STANDALONE_ est à privilégier mais comme annoncé précédemment nous nous occuperons de la version _EVAL_ : 
 
-Si votre VM Security Onion dispose d'un accès Internet complet, sélectionnez Standard (sinon, comme dans notre cas, sélectionnez Airgap) :
+![]()
+
+Pour cette étape, sélectionnez le type d'installation souhaité :
+
+![]()
+
+Si votre VM Security Onion dispose d'un accès Internet complet, sélectionnez "Standard" (sinon, comme dans notre cas, sélectionnez Airgap) :
+
+![]()
 
 Pour continuer veuillez accepter les termes de la licence en tapant "agree" : 
 
+![]()
+
 Définissez le nom d'hôte (celui-ci n'a pas vraiment d'importance, il vous permettra toutefois d'identifier cette machine) :
+
+![]()
 
 Dans le cas où vous auriez laissé le nom d'hôte par défaut et que vous souhaitez tout de même l'utiliser, sélectionnez "Use anyway" (cependant, si vous décidiez de créer une nouvelle machine, elle ne pourra pas posséder ce même nom d'hôte) :
 
-Dans cette étape, choisissez l'une des deux cartes réseaux établies plus haut : 
+![]()
 
-Dans notre exemple, une adresse IPv4 statique est demandée, toutefois, si vous avez accès à un réseau fixe (box Internet domicile) l'utilisation du DHCP est possible et la configuration d'une adresse IPv4 fixe sera possible plus tard :
+Dans cette étape, choisissez la première carte réseaux établie plus haut : 
+
+![]()
+
+Dans notre exemple, une adresse IPv4 statique est demandée, toutefois, si vous avez accès à un réseau fixe / personnel (ex : box Internet domicile) l'utilisation du DHCP est possible et la configuration de l'adresse IPv4 fixe sera possible plus tard :
+
+![]()
 
 Dans le cas où vous rentrez une adresse fixe, renseignez cette dernière (dans le cadre de notre projet, l'Ipv4 demandée est 172.16.10.10/24) :
 
+![]()
+
 Définissez maintenant la passerelle (dans notre cas : 172.16.10.254) :
+
+![]()
 
 Renseignez les serveurs DNS (ici les serveurs DNS Google classique) :
 
+![]()
+
 Donnez le domaine de recherche DNS (nous avons laissé le nom par défaut ) : 
+
+![]()
 
 Par défaut nous avons gardé le Docker IP range : 
 
+![]()
+
 Sélectionnez Direct : 
 
-Rentrez une adresse mail qui sera utilisée pour Security Onion Console (SOC) :
+![]()
 
-Définissez le mot de passe pour Security Onion Console : 
+Rentrez une adresse mail qui sera utilisée pour la Web Interface en tant qu'Administrateur du logiciel :
+
+![]()
+
+Définissez le mot de passe pour ce compte : 
+
+![]()
 
 Confirmez le : 
 
+![]()
+
 Dans la statégie d'accès, choisissez IP : 
+
+![]()
 ________________
 ### Configuration Administrateur
 
-Lors de l'étape précédente, le compte administrateur a été initié :
+Pour vous connectez à l'Interface Web, rentrez l'adresse mail administrateur établie [plus haut](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/edit/main/INSTALL.md#configuration-de-liso--os) :
 
-L'adresse que vous avez rentrée à cette étape :
+![]()
 
 Le mot de passe que vous avez mis en place à cette étape + sa confirmation :
+
+![]()
+![]()
 ________________
 ### Configuration nouvel utilisateur
 

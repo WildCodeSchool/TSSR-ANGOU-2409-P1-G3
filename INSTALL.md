@@ -130,7 +130,7 @@ Pour se faire :
 
 Passer la carte réseau de l'OS Serveur en "Réseau privé hôte".
 
-![]()
+![RESEAU_PRIVE_HOTE.png](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/PHOTO_ADMIN/RESEAU_PRIVE_HOTE.PNG)
 
 La machine hôte est l'ordinateur de la personne qui lance le serveur sur son virtualbox. Depuis cette machine, ouvrez les paramètres Réseau et Internet de l'ordinateur :
 

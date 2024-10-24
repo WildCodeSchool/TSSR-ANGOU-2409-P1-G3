@@ -158,15 +158,21 @@ Entrer l'adresse IP : 172.16.10.40 et masque de sous-réseau : 255.255.255.0 :
 
 Terminez en cliquant sur OK.
 
-Configuration de la carte Virtualbox depuis Fichiers ==> 
-Outils ==> 
-Network Manager ==> 
-Clic gauche sur la carte : VirtualBox Host-Only Ethernet Adapter ==> 
-Propriétés ==> 
-Configurer la carte manuellement ==> 
-Lui attribuer l'adresse IPv4 : 172.16.10.50/24 et masque réseau IPv4 : 255.255.255.0.
+Configuration de la carte Virtualbox depuis "Outils" :
 
+![ONGLET_OUTILS.png](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/PHOTO_ADMIN/ONGLET_OUTILS.PNG)
 
+Clic gauche sur la carte "VirtualBox Host-Only Ethernet Adapter" :
+
+![CLIC_CARTE_RESEAU.png](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/PHOTO_ADMIN/CLIC_CARTE_RESEAU.PNG)
+
+Sélectionnez : "Propriétés" :
+
+![PROPRIETES_CARTE_RESEAU.png](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/PHOTO_ADMIN/PROPRIETES_CARTE_RESEAU.PNG)
+
+Configurer la carte manuellement et lui attribuer l'adresse IPv4 : 172.16.10.50/24 et masque réseau IPv4 : 255.255.255.0.
+
+![CONFIG_IP_MASQUE.png](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/PHOTO_ADMIN/CONFIG_IP_MASQUE.PNG)
 
 
 ________________

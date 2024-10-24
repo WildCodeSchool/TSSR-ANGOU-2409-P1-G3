@@ -10,7 +10,7 @@ Le but principal de ce projet est la mise en place d'une plateforme de surveilla
 
 Dans un monde où la cybersécurité prend de plus en plus de place et d'importance, une plateforme de cybersécurité est devenu essentielle pour une entreprise dont certains logiciels permettent d'assurer une meilleure sécurité des infrastructures réseaux. 
 
-C'est le cas de Security Onion, outil de détection et de réponses aux menaces d'intrusions visant à renforcer la sécurité des réseaux informatiques. Développé pour répondre aux attentes des entreprises depuis l'attaque de Wannacry en 2017. Cet outil est utilisé dans différents buts. Il est dédié notemment à la surveillance du réseau en traquant les activités suspectes tels que les accès non autorisés, les logiciels malveillants ou tout comportement suspect. Il garantit la surveillance de la sécurité des entreprises et la gestion des journaux. Distribué par l'OS Linux, c'est un logiciel open source téléchargé aujourd'hui par plus de deux millions d'utilisateurs. 
+C'est le cas de Security Onion, outil de détection et de réponse face aux menaces d'intrusion visant à renforcer la sécurité des réseaux informatiques. Développé pour répondre aux attentes des entreprises depuis l'attaque de Wannacry en 2017. Cet outil est utilisé dans différents buts. Il est dédié notamment à la surveillance du réseau en traquant les activités suspectes tels que les accès non autorisés, les logiciels malveillants ou tout comportement suspect. Il garantit la surveillance de la sécurité des entreprises et la gestion des journaux. Distribué par l'OS Linux, c'est un logiciel open source téléchargé aujourd'hui par plus de deux millions d'utilisateurs. 
 
 ## Membres du groupe de projet (rôle par sprint)
 

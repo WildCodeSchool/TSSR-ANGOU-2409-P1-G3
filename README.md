@@ -103,7 +103,7 @@ Solution mode "Accès par pont" :
 ### Retours entretiens client ?
 
 Grâce à Security Onion notre client souhaiterais pouvoir surveiller :
-- Si un equipement a changé d'adresse MAC (attque dîte **ARP Spoofing**)
+- Si un equipement a changé d'adresse MAC (attaque dîte **ARP Spoofing**)
 - Si un equipement n'est plus connecté au réseau
 - Si un equipement subis ou a subis une attaque par dictionnaire.
 

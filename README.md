@@ -48,7 +48,7 @@ C'est le cas de Security Onion, outil de détection et de réponses aux menaces 
 
 ## Introduction au logiciel Security Onion 
 
-Security Onion est une distribution open-source Linux, il est recommandé d'avoir comme système d'exploitation Ubuntu afin de garantir une compatibilité optimale. Son architecture conçue par couches tel un oignon, garanti une surveillance multidimensionnelle et permettant ainsi l'analyse du trafic réseau, la collecte des données, et les alertes sur les menaces potentielles en temps réel.
+Security Onion est une distribution open-source Linux, il est recommandé d'avoir comme système d'exploitation Ubuntu, CentOS étant arrivé a son terme depuis le 30 juin 2024, le choix s'est porté sur Oracle Linux afin de garantir une compatibilité optimale. Son architecture conçue par couches tel un oignon, garanti une surveillance multidimensionnelle et permettant ainsi l'analyse du trafic réseau, la collecte des données, et les alertes sur les menaces potentielles en temps réel.
 
 - Politiques, procédures, sensibilisation
 - Sécurité physique

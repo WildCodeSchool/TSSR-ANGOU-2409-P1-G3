@@ -117,7 +117,7 @@ Dans l'adapter 2 :
 ![COCHER_ACTIVER_2.png](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/PHOTO_ADMIN/COCHER_ACTIVER_2.PNG).
 ![MODE_RESEAU_INTERNE.png](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/PHOTO_ADMIN/MODE_RESEAU_INTERNE.PNG)
 
-Avant de poursuivre dans cette partie, enchaînez avec la suivante : **Configuration de l'ISO / OS**
+Avant de poursuivre dans cette partie, enchaînez avec la suivante : ### Configuration de l'ISO / OS
 
 Une fois l'initialisation du serveur terminée, vous allez devoir modifier ces paramètres réseaux pour permettre la communication de votre machine hôte et/ou d'une VM cliente avec votre serveur.
 

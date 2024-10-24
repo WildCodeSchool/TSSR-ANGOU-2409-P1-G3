@@ -2,7 +2,7 @@
 
 ## Présentation du projet, objectifs finaux
 
-Le but principal de ce projet est la mise en place d'une plateforme de surveillance réseau, via l'installation du logiciel Security Onion et la mise en service d'un réseau pour en comprendre son utilisation et ses capacités mais egalement d'initier des règles de détection d'intrusion afin de prévenir les eventuelles menaces et d'en atténuer les riques.
+Le but principal de ce projet est la mise en place d'une plateforme de surveillance réseau, via la mise en service d'un serveur Security Onion 2.4 et de l'utilisation de son logiciel par une interface web pour en comprendre son utilisation et ses capacités mais également, si possible, d'initier des règles de détection d'intrusion afin de prévenir les éventuelles menaces et d'en atténuer les risques.
 
 ## Introduction : Mise en contexte
 

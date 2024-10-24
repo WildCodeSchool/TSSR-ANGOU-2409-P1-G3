@@ -14,37 +14,37 @@ Connectez vous à l'interface Security Onion en entrant vos identifiants :
 
 _________________________________________
 
-# Présentation de l'interface utilisateur
+## Présentation de l'interface utilisateur
 
 Bienvenue dans l'interface avec les différents panels, analyse de gestions des alertes et seuil d'alerte.
-Depuis la barre de navigation sur la gauche de l'interface, vous pouvez accéder aux panneaux principaux d'information et de surveillance suivant :
+Depuis la barre de navigation sur la gauche de l'interface, vous pouvez accéder aux principaux panneaux d'information et de surveillance suivant :
 
 ### OVERVIEW :
 Ecran d'atterissage à la connexion au serveur. Cette écran permet d'accéder à l'aide du logiciel (en anglais), d'afficher la version du logiciel, ses nouveautés, son développement en cours.
 
 ![image](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/PHOTOS_USER/overview_panel02.png)
 
-
-### ALERTS :
-
-Centralise les différentes alertes configuré dans Security Onion.
+### ALERTS :
+Centralise les différentes alertes configurés dans Security Onion.
 
 ![image](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/PHOTOS_USER/alert_pannel_overview.png)
 
+### DASHBOARDS ( tableau de bord ) :
+Permet de visualiser les activités sur le server et de cibler certains événements avec précision :
 
-> DASHBOARDS ( tableau de bord ) : IMAGE
-Visualisation simple, graphique et diagramme des anomalies détéctées
-plusieurs tableaux de bords sont disponibles 
+![image](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/PHOTOS_USER/dashboard_pannel.png)
 
-> HUNT IMAGE
-Enquête, flexible et rapide des alertes remontées, filtres point d'analyses récupération de données pour détecter les intrusions ou les menaces
+### HUNT :
+Permet d'ennquêter, de manière flexible et rapide, sur les alertes remontées.
 
-> CASES :
-outil de gestion des cas, documentation, partie intégrer au flux du travail
+![image](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/PHOTOS_USER/hunt_pannel.png)
 
+### GRID :
+Affiche le status du server et des nodes connectés sur la grille de Security Onion.
 
-> GRID :
+![image](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/PHOTOS_USER/grid_pannel.png)
 
+________________________________________________________________________________
 
 ===============================================
 # A SUPPRIMER
@@ -54,20 +54,14 @@ outil de gestion des cas, documentation, partie intégrer au flux du travail
 ===============================================
 
 
-## Utilisation de base : Comment utiliser les fonctionnalités clés
+## Utilisation de base : Comment utiliser certaine fonctionnalités clés de Security Onion
 
-Flux de travail : 
-- Alertes et examinez les alertes non reconnues (cliquez sur alertes
-  
-- Consultez le tableau de bord
-  # SYNTHETISER le menu déroulan
-cliquer sur la flèche pour afficher les informations supplémentaires 
-sélectionner HTTP, pour filtrer les données collectées pour votre réseau. 
+### Filtrer des événements
+Cliquer sur la flêche permet de dérouler le menu des filtres d'événements prés-configurer dans Security Onion
 
-![image](https://github.com/user-attachments/assets/ab071ac4-8d84-4f84-8b45-ea250a2c0be7)
+![image](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/PHOTOS_USER/dashboard_filtrer-event.png)
 
-![Dashboard _ SecurityOnion](https://docs.securityonion.net/en/2.4/_images/53_dashboards.png)
-
+Ici nous sélectionnons le filtre "connec failur" afin d'afficher les erreurs de connexion à un équipement
  déscendre pour consulter le journal
  exemple d'evennement (connexion failur) 
 

@@ -278,7 +278,7 @@ Confirmez les informations renseignées dans le récap :
 
 Une fenêtre de fin d'installation s'ouvre :
 
-![]()
+![FIN_INSTALL.png](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/PHOTO_ADMIN/FIN_INSTALL.png)
 
 L'installation est terminée ! [Vous pouvez retourner à la rubrique précédente pour la modification des paramètres des cartes réseau](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/INSTALL.md#configuration-de-la-vm).
 

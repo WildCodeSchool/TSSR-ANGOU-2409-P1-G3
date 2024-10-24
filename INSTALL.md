@@ -281,22 +281,27 @@ Vous êtes connecté !
 ________________
 ### Configuration nouvel utilisateur sur la web interface
 
-Accès au logiciel Security Onion :
+Depuis l'interface web, en tant qu'administrateur, il vous est possible de créer de nouveaux utilisateurs. Pour se faire, cliquez sur la rubrique "Administration"
 
-![]()
+![ONGLET_ADMINISTRATION.png](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/PHOTO_ADMIN/ONGLET_ADMINISTRATION.png)
 
-Cliquez sur "" : 
+Cliquez sur "USERS" : 
 
-![]()
+![ONGLET_USERS.png](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/PHOTO_ADMIN/ONGLET_USERS.png)
 
-Puis sur "" : 
+Puis sur le "+" : 
 
-![]()
+![ONGLET_USERS_+.png](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/PHOTO_ADMIN/ONGLET_USERS_%2B.PNG)
 
 Rentrez les informations pour un nouvel utilisateur : 
 
-![]()
+![INFORMATIONS_UTILISATEUR.png](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/PHOTO_ADMIN/INFORMATIONS_UTILISATEUR.png)
 
+Vous pouvez sélectionner le type d'utilisateur : 
+
+![SELECTION_TYPE_UTILISATEUR.png](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/PHOTO_ADMIN/SELECTION_TYPE_UTILISATEUR.png)
+
+Et voilà ! Vous avez créée un nouvel utilisateur.
 _____________________________________________________________________________________________________________________________________________________________________________
 ## FAQ : solutions aux problèmes connues et communs liés à l'installation et à la configuration
 

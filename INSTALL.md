@@ -252,9 +252,9 @@ Donnez une IP unique ou une range à autoriser via le pare-feu basé sur l'hôte
 
 ![IP_RANGE.png](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/PHOTO_ADMIN/IP_RANGE.png)
 
-Confirmez les options :
+Confirmez les informations renseignées dans le récap :
 
-![]()
+![RECAP_CONFIG.png](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/PHOTO_ADMIN/RECAP_CONFIG.png)
 
 Une fenêtre de fin d'installation s'ouvre :
 
@@ -263,27 +263,39 @@ Une fenêtre de fin d'installation s'ouvre :
 L'installation est terminée !
 
 ________________
-### Configuration Administrateur
+### Connexion web interface Administrateur
 
-Pour vous connectez à l'Interface Web, rentrez l'adresse mail administrateur établie [plus haut](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/edit/main/INSTALL.md#configuration-de-liso--os) :
+Pour accéder à l'interface, rentrez l'adresse ip de votre serveur dans un moteur de recherche :
 
-![]()
+![IP_WEB_BROWSER.png](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/PHOTO_ADMIN/IP_WEB_BROWSER.png)
 
-Le mot de passe que vous avez mis en place à cette étape + sa confirmation :
+Pour vous connectez à l'Interface Web, rentrez l'adresse mail administrateur établie et le mot de passe [plus haut](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/edit/main/INSTALL.md#configuration-de-liso--os) :
 
-![]()
-![]()
+![FENETRE_CONNEXION.png](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/PHOTO_ADMIN/FENETRE_CONNEXION.png)
+
+En renseignant les bons identifiants, vous arriverez sur cette page :
+
+![CONNEXION_REUSSIE.png](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/PHOTO_ADMIN/CONNEXION_REUSSIE.png)
+
+Vous êtes connecté !
 ________________
-### Configuration nouvel utilisateur
+### Configuration nouvel utilisateur sur la web interface
 
 Accès au logiciel Security Onion :
 
+![]()
+
 Cliquez sur "" : 
+
+![]()
 
 Puis sur "" : 
 
+![]()
+
 Rentrez les informations pour un nouvel utilisateur : 
 
+![]()
 
 _____________________________________________________________________________________________________________________________________________________________________________
 ## FAQ : solutions aux problèmes connues et communs liés à l'installation et à la configuration

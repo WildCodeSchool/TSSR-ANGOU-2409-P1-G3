@@ -134,7 +134,6 @@ Paramètres réseau avancés ==>
 Clic gauche la carte réseau VirtualBox Host-Only Ethernet Adapter ==> 
 Modifier ==> 
 Double Clic sur Protocole Internet version 4 (TCP/IPv4) ==> 
-Utiliser l'adresse IP suivante ==> 
 Entrer l'adresse IP : 172.16.10.40 et masque de sous-réseau : 255.255.255.0 ==> 
 OK.
 
@@ -260,7 +259,7 @@ Une fenêtre de fin d'installation s'ouvre :
 
 ![]()
 
-L'installation est terminée !
+L'installation est terminée ! [Vous pouvez retourner à la rubrique précédente pour la modification des paramètres des cartes réseau](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/INSTALL.md#configuration-de-la-vm).
 
 ________________
 ### Connexion web interface Administrateur

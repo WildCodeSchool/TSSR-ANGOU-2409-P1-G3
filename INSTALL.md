@@ -91,19 +91,35 @@ Pour l'installation du serveur Security Onion, la mise en place de deux cartes r
 
 Cliquer sur la VM dont il est question, une fois fait allez dans la partie "Configuration" :
 
+![ONGLET_CONFIGURATION.png](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/PHOTO_ADMIN/ONGLET_CONFIGURATION.PNG).
+
 Passez en configuration "Expert" :
 
+![ONGLET_EXPERT.png](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/PHOTO_ADMIN/ONGLET_EXPERT.PNG).
+
 Accédez à la rubrique "Réseau" :
+
+![ONGLET_RESEAU.png](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/PHOTO_ADMIN/ONGLET_RESEAU.PNG).
 
 Dans l'adapater 1 :
   - Cochez "Activer l'interface réseau"
   - Choisissez le Mode d'accès réseau "Accès par pont"
 
+![ONGLET_CARTE_1.png](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/PHOTO_ADMIN/ONGLET_CARTE_1.PNG).
+![COCHER_ACTIVER_1.png](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/PHOTO_ADMIN/COCHER_ACTIVER_1.PNG)
+![MODE_RESEAU_BRIDGED.png](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/PHOTO_ADMIN/MODE_RESEAU_BRIDGED.PNG).
+
 Dans l'adapter 2 :
 - Cochez également "Activer l'interface réseau"
 - Choisissez le Mode d'accès "Réseau interne"
 
-Une fois l'installation terminée, vous allez devoir modifier ces paramètres réseaux pour permettre la communication de votre machine hôte et/ou d'une VM cliente avec votre serveur.
+![ONGLET_CARTE_2.png](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/PHOTO_ADMIN/ONGLET_CARTE_2.PNG).
+![COCHER_ACTIVER_2.png](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/PHOTO_ADMIN/COCHER_ACTIVER_2.PNG).
+![MODE_RESEAU_INTERNE.png](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/PHOTO_ADMIN/MODE_RESEAU_INTERNE.PNG)
+
+Avant de poursuivre dans cette partie, enchaînez avec la suivante : 
+
+Une fois l'initialisation du serveur terminée, vous allez devoir modifier ces paramètres réseaux pour permettre la communication de votre machine hôte et/ou d'une VM cliente avec votre serveur.
 
 Pour se faire :
 

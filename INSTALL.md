@@ -162,7 +162,7 @@ Tapez "yes" pour continuer l'installation :
 
 ![YES_TO_PROCEED.png](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/PHOTO_ADMIN/YES_TO_PROCEED.png)
 
-Un nom d'hÔte utilisateur et un mot de passe vous sont demandés :
+Un nom d'hôte utilisateur et un mot de passe vous sont demandés :
 
 ![HOST_LOGIN.png](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/PHOTO_ADMIN/HOST_LOGIN.png)
 ![SET_PASSWORD.png](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/PHOTO_ADMIN/SET_PASSWORD.png)
@@ -173,79 +173,95 @@ Une fois ces premières étapes d'installation terminées, vous êtes invité à
 
 Après le redémarrage, connectez-vous avec le nom d'utilisateur et le mot de passe établis précédemment, puis l'installation se déclenchera automatiquement :
 
-![]()
-
-L'installation _STANDALONE_ est à privilégier mais comme annoncé précédemment nous nous occuperons de la version _EVAL_ : 
-
-![]()
+![YES_CONTINUE.png](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/PHOTO_ADMIN/YES_CONTINUE.png)
 
 Pour cette étape, sélectionnez le type d'installation souhaité :
+> L'installation _STANDALONE_ est à privilégier mais comme annoncé précédemment nous nous occuperons de la version _EVAL_.
 
-![]()
+![TYPE_INSTALL.png](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/PHOTO_ADMIN/TYPE_INSTALL.png)
 
 Si votre VM Security Onion dispose d'un accès Internet complet, sélectionnez "Standard" (sinon, comme dans notre cas, sélectionnez Airgap) :
 
-![]()
+![AIRGAP.png](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/PHOTO_ADMIN/AIRGAP.png)
 
 Pour continuer veuillez accepter les termes de la licence en tapant "agree" : 
 
-![]()
+![AGREE.png](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/PHOTO_ADMIN/AGREE.png)
 
 Définissez le nom d'hôte (celui-ci n'a pas vraiment d'importance, il vous permettra toutefois d'identifier cette machine) :
 
-![]()
+![NOM_HOTE.png](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/PHOTO_ADMIN/NOM_HOTE.png)
 
 Dans le cas où vous auriez laissé le nom d'hôte par défaut et que vous souhaitez tout de même l'utiliser, sélectionnez "Use anyway" (cependant, si vous décidiez de créer une nouvelle machine, elle ne pourra pas posséder ce même nom d'hôte) :
 
-![]()
+![USE_ANYWAY.png](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/PHOTO_ADMIN/USE_ANYWAY.png)
 
-Dans cette étape, choisissez la première carte réseaux établie plus haut : 
+Dans cette étape, choisissez la première carte réseau établie plus haut : 
 
-![]()
+![CARTE_RESEAU_1](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/PHOTO_ADMIN/CARTE_RESEAU_1.png)
 
 Dans notre exemple, une adresse IPv4 statique est demandée, toutefois, si vous avez accès à un réseau fixe / personnel (ex : box Internet domicile) l'utilisation du DHCP est possible et la configuration de l'adresse IPv4 fixe sera possible plus tard :
 
-![]()
+![IPv4_STATIC.png](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/PHOTO_ADMIN/IPv4_STATIC.png)
 
 Dans le cas où vous rentrez une adresse fixe, renseignez cette dernière (dans le cadre de notre projet, l'Ipv4 demandée est 172.16.10.10/24) :
 
-![]()
+![IPv4_SET.png](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/PHOTO_ADMIN/IPv4_SET.png)
 
 Définissez maintenant la passerelle (dans notre cas : 172.16.10.254) :
 
-![]()
+![PASSERELLE_IPv4.png](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/PHOTO_ADMIN/PASSERELLE_IPv4.png)
 
 Renseignez les serveurs DNS (ici les serveurs DNS Google classique) :
 
-![]()
+![DNS.png](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/PHOTO_ADMIN/DNS.png)
 
 Donnez le domaine de recherche DNS (nous avons laissé le nom par défaut ) : 
 
-![]()
+![DNS_SEARCH_DOMAIN.png](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/PHOTO_ADMIN/DNS_SEARCH_DOMAIN.png)
 
 Par défaut nous avons gardé le Docker IP range : 
 
-![]()
+![DOCKER_IP.png](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/PHOTO_ADMIN/DOCKER_IP.png)
 
 Sélectionnez Direct : 
 
-![]()
+![DIRECT.png](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/PHOTO_ADMIN/DIRECT.png)
 
 Rentrez une adresse mail qui sera utilisée pour la Web Interface en tant qu'Administrateur du logiciel :
 
-![]()
+![MAIL_ADMIN.png](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/PHOTO_ADMIN/MAIL_ADMIN.png)
 
 Définissez le mot de passe pour ce compte : 
 
-![]()
+![PASSWORD_ADMIN.png](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/PHOTO_ADMIN/PASSWORD_ADMIN.png)
 
 Confirmez le : 
 
-![]()
+![CONFIRM_PASSWORD_ADMIN.png](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/PHOTO_ADMIN/CONFIRM_PASSWORD_ADMIN.png)
 
 Dans la statégie d'accès, choisissez IP : 
 
+![SELECTION_ACCES_WEB_INTERFACE.png](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/PHOTO_ADMIN/SELECTION_ACCES_WEB_INTERFACE.png)
+
+Autorisez l'accès en sélectionnant "yes" :
+
+![ALLOW_ACCESS.png](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/PHOTO_ADMIN/ALLOW_ACCESS.png)
+
+Donnez une IP unique ou une range à autoriser via le pare-feu basé sur l'hôte :
+
+![IP_RANGE.png](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/PHOTO_ADMIN/IP_RANGE.png)
+
+Confirmez les options :
+
 ![]()
+
+Une fenêtre de fin d'installation s'ouvre :
+
+![]()
+
+L'installation est terminée !
+
 ________________
 ### Configuration Administrateur
 

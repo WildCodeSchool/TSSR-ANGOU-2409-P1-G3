@@ -124,18 +124,39 @@ Dans l'adapter 2 :
 
 Avant de poursuivre dans cette partie, enchaînez avec la suivante : [Configuration de l'ISO / OS](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/INSTALL.md#configuration-de-liso--os)
 
-Une fois l'initialisation du serveur terminée, vous allez devoir modifier ces paramètres réseaux pour permettre la communication de votre machine hôte et/ou d'une VM cliente avec votre serveur.
+Une fois l'initialisation du serveur terminée, vous allez devoir modifier certains paramètres réseaux pour permettre la communication de votre machine hôte et/ou d'une VM cliente avec votre serveur.
 
 Pour se faire :
 
-La machine hôte est l'ordinateur de la personne qui lance le serveur sur son virtualbox : 
-Ouvrir les paramètres Réseau et Internet de l'ordinateur ==> 
-Paramètres réseau avancés ==> 
-Clic gauche la carte réseau VirtualBox Host-Only Ethernet Adapter ==> 
-Modifier ==> 
-Double Clic sur Protocole Internet version 4 (TCP/IPv4) ==> 
-Entrer l'adresse IP : 172.16.10.40 et masque de sous-réseau : 255.255.255.0 ==> 
-OK.
+Passer la carte réseau de l'OS Serveur en "Réseau privé hôte".
+
+![]()
+
+La machine hôte est l'ordinateur de la personne qui lance le serveur sur son virtualbox. Depuis cette machine, ouvrez les paramètres Réseau et Internet de l'ordinateur :
+
+![PARAMETRES_RESEAU_INTERNET.png](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/PHOTO_ADMIN/PARAMETRES_RESEAU_INTERNET.png)
+
+Paramètres réseau avancés :
+
+![PARAMETRES_RESEAU_AVANCES.png](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/PHOTO_ADMIN/PARAMETRES_RESEAU_AVANCES.png)
+
+Clic gauche la carte réseau VirtualBox Host-Only Ethernet Adapter :
+
+![SELECTION_CARTE_RESEAU_VIRTUALBOX.png](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/PHOTO_ADMIN/SELECTION_CARTE_RESEAU_VIRTUALBOX.png)
+
+Modifier :
+
+![MODIFIER_CARTE_RESEAU.png](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/PHOTO_ADMIN/MODIFIER_CARTE_RESEAU.png)
+
+Double Clic sur Protocole Internet version 4 (TCP/IPv4) :
+
+![PROTOCOLE_IPv4.png](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/PHOTO_ADMIN/PROTOCOLE_IPv4.png)
+
+Entrer l'adresse IP : 172.16.10.40 et masque de sous-réseau : 255.255.255.0 :
+
+![IPv4_MASQUE_SOUS_RESEAU](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/PHOTO_ADMIN/IPv4_MASQUE_SOUS_RESEAU.png)
+
+Terminez en cliquant sur OK.
 
 Configuration de la carte Virtualbox depuis Fichiers ==> 
 Outils ==> 

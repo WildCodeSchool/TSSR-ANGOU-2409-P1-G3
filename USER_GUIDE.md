@@ -4,7 +4,8 @@
 
 - Une fois Security Onion installé :
   
-- Ouvrez un navigateur web (IMAGE)
+- Ouvrez un navigateur web et entrer l'adresse IP du server security Onion 
+![image](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/PHOTOS_USER/saisie_adresse_IP_OK.png)
   
 - Connectez vous à l'interface Security Onion :
 identifiant et mot de passe (IMAGE)

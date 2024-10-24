@@ -57,28 +57,41 @@ ________________________________________________________________________________
 ## Utilisation de base : Comment utiliser certaine fonctionnalités clés de Security Onion
 
 ### Filtrer des événements
-Cliquer sur la flêche permet de dérouler le menu des filtres d'événements prés-configurer dans Security Onion
+Depuis le panneau Dashboard, cliquer sur la flêche permet de dérouler le menu des filtres d'événements prés-configurer dans Security Onion
 
 ![image](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/PHOTOS_USER/dashboard_filtrer-event.png)
 
-Ici nous sélectionnons le filtre "connec failur" afin d'afficher les erreurs de connexion à un équipement
- déscendre pour consulter le journal
- exemple d'evennement (connexion failur) 
+Ici nous sélectionnons le filtre __SOC Login event Failures__ afin d'afficher les erreurs de login à un équipement enregistrées par Security Onion.
 
- - Clic droit sur une alerte pour en connaître les détails, toutes les informations concernant la menace. 
+![image](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/PHOTOS_USER/dashboard_filtres_login_faileur.png)
+
+Déscendre vers le bas de la page pour consulter le journal d'évenement
+
+![image](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/PHOTOS_USER/dashboard_pannel_scrolldown.png)
+
+Le journal d'événement s'est mis à jour avec le filtre d'évenement séléctionné
+
+![image](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/PHOTOS_USER/dashbord_event_filtrer_update.png)
+
+### Activer/Désactiver des stratégies et méthodes de sécurité
+Security Onion intègre de nombreuses stratégies de surveillance prédéfinit qu'il est possible d'activer (ou désactiver) via le panneau __Detections__
+
+![image](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/PHOTOS_USER/detection_pannel_scroll_down.png)
+
+En bas du panneau __Detections__, séléctionnez la stratégie de surveillance que vous voulez ajouter à Security Onion.
+Ici nous séléctionnons les tentatives des connexion, via le protocole HTTP, à la node IDH de notre server.
+
+![image](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/PHOTOS_USER/detection_event_selection_pannel.png)
+
+Une fois la stratégie séléctionnée, remontez la page __Detections__. 
+La champs des filtres s'est automatiquement complété.
+Cliquez sur l'icone symbolisant une cible pour lancer la stratégie et être automatiquement redirigé sur le panneau __Alertes__ afin de visualiser ses résultats.
+
+![image](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/PHOTOS_USER/detection_pannel_majfiltre_lancer-alert.png)
+
   
 - Passer à Hunt, interface qui cible plus précisemmment les requêtes en regroupant plusieurs champs du Tableau de bord, etudiez et étendre votre recherche, les journaux supplémentaires relatifs aux adresses IP source et de destination.
   
-- Si l'une de ces alertes, vous semble intéressantes passer PCAP ( packet capture ) interface de programmation permettant de capturer un trafic réseau pour examiner.
-
-- En fonction de vos recherches, envoyez a CyberChef pour une analyse et un décodage plus approfondie.
-
-- Transférez les alertes et les journaux vers les dossiers. Passez à la rubrique _Hunt_ pour élargir votre champ d'action.
-
-- Si vous avez déployé ElasticAgent, rechercher des journaux d'hôte supplémentaires ou exécuter des requêtes à l'aide d'osquery.
-  
-- Enfin, revenez aux dossiers et documentez l’intégralité de l’enquête et fermez le dossier.
-
 ## Utilisation avancée : comment utiliser au mieux les options
 
 Sécurity Onion, permet la sauvegarde quotidienne de certains fichiers afin de pouvoir récupérer ces derniers en cas de panne. 

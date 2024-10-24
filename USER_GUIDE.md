@@ -2,26 +2,35 @@
 
 ## Se connecter à l'interface de Sécurity Onion 
 
-- Une fois Security Onion installé :
+Une fois Security Onion installé :
   
-- Ouvrez un navigateur web et entrer l'adresse IP du server security Onion 
+Ouvrez un navigateur web et entrer l'adresse IP du server security Onion :
+
 ![image](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/PHOTOS_USER/saisie_adresse_IP_OK.png)
   
-- Connectez vous à l'interface Security Onion :
-identifiant et mot de passe (IMAGE)
+Connectez vous à l'interface Security Onion en entrant vos identifiants :
+  
+![image](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/PHOTOS_USER/login_user.png)
 
-=======================================================
+_________________________________________
+
 # Présentation de l'interface utilisateur
 
- - Bienvenue dans l'interface avec les différents panels et analyse de gestions des alertes et seuil d'alerte.
+Bienvenue dans l'interface avec les différents panels, analyse de gestions des alertes et seuil d'alerte.
+Depuis la barre de navigation sur la gauche de l'interface, vous pouvez accéder aux panneaux principaux d'information et de surveillance suivant :
 
-> OVERVIEW : IMAGE
-Ecran de présentation, description, version du logiciel, les nouveautés de la version
+### OVERVIEW :
+Ecran d'atterissage à la connexion au serveur. Cette écran permet d'accéder à l'aide du logiciel (en anglais), d'afficher la version du logiciel, ses nouveautés, son développement en cours.
 
-> ALERTS IMAGE
-Centre des différentes alertes générées, afficher par type, count,  HIDS, NIDS, permet l’examen des alertes reçues. clic droit >  _DrillDown_ pour avoir des informations 
+![image](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/PHOTOS_USER/overview_panel02.png)
 
-fleche d’une alerte : toutes les caractéristiques d’une alerte avec le type de journal 
+
+### ALERTS :
+
+Centralise les différentes alertes configuré dans Security Onion.
+
+![image](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/PHOTOS_USER/alert_pannel_overview.png)
+
 
 > DASHBOARDS ( tableau de bord ) : IMAGE
 Visualisation simple, graphique et diagramme des anomalies détéctées

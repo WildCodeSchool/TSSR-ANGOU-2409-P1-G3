@@ -307,7 +307,7 @@ Vous êtes connecté à l'interface Web !
 ________________
 ### Configuration nouvel utilisateur sur la web interface
 
-Depuis l'interface web, en tant qu'administrateur, il vous est possible de créer de nouveaux utilisateurs. Pour se faire, cliquez sur la rubrique "Administration"
+Depuis l'interface web, en tant qu'administrateur, il vous est possible de créer de nouveaux utilisateurs. Pour se faire, cliquez sur la rubrique "Administration" :
 
 ![ONGLET_ADMINISTRATION.png](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/PHOTO_ADMIN/ONGLET_ADMINISTRATION.png)
 

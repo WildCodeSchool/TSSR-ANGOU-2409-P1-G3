@@ -3,17 +3,17 @@
 
 ## Prérequis techniques
 
-- [ Téléchargement de Security Onion Desktop ISO](https://github.com/Security-Onion-Solutions/securityonion/raw/2.4/main/sigs/securityonion-2.4.110-20241004.iso.sig)
+- [Téléchargement de Security Onion Desktop ISO](https://github.com/Security-Onion-Solutions/securityonion/raw/2.4/main/sigs/securityonion-2.4.110-20241004.iso.sig)
 
-Dans le cas d'une utilisation _STANDALONE_, il vous faut allouer :
-* 4 cɶurs
-* 16 Gb RAM
-* 200 Gb de stockage (SSD préférable, mais un HDD conviendra)
+> Dans le cas d'une utilisation _STANDALONE_, il vous faut allouer :
+> * 4 cɶurs
+> * 16 Gb RAM
+> * 200 Gb de stockage (SSD préférable, mais un HDD conviendra)
 
-Dans notre situation, utilisation d'une version _EVAL_ :
-* 4 cɶurs
-* 8 Gb RAM
-* 200 Gb de stockage
+> Dans notre situation, utilisation d'une version _EVAL_ :
+> * 4 cɶurs
+> * 8 Gb RAM
+> * 200 Gb de stockage
 
 La liste complète des prérequis techniques en fonction du type d'installation peut être trouvée [ici](https://docs.securityonion.net/en/2.4/hardware.html).
 _____________________________________________________________________________________________________________________________________________________________________________

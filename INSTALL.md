@@ -335,11 +335,11 @@ ________________________________________________________________________________
 
 Comment dois-je configurer les paramètres réseaux de ma VM pour y accéder ?
 
-Consultez la rubrique [ici]().
+Consultez la rubrique [ici](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/edit/main/INSTALL.md#configuration-des-param%C3%A8tres-r%C3%A9seaux-de-la-vm).
 
 Les paramètres réseaux pour utiliser ma machine hôte ?
 
-Consultez la rubrique [ici]().
+Consultez la rubrique [ici](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/edit/main/INSTALL.md#configuration-des-param%C3%A8tres-r%C3%A9seaux-pour-un-acc%C3%A8s-local).
 
 Les paramètres réseaux pour utiliser une VM Client ?
 
@@ -347,17 +347,18 @@ Les paramètres réseaux pour utiliser une VM Client ?
 
 Comment me connecter en tant qu'administrateur  ?
 
-Consultez la rubrique [ici]().
+Consultez la rubrique [ici](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/edit/main/INSTALL.md#connexion-web-interface-administrateur).
 
 Comment gérer les utilisateurs non administrateur ?
 
-Consultez la rubrique [ici]().
+Consultez la rubrique [ici](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/edit/main/INSTALL.md#configuration-nouvel-utilisateur-sur-la-web-interface).
 
 Comment vérifier les clés ISO ?
 
-Consultez la rubrique [ici]().
+Consultez la rubrique [ici](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/edit/main/INSTALL.md#v%C3%A9rification-de-lint%C3%A9grit%C3%A9-de-liso).
 
 Quelle version de Security Onion dois-je utiliser ?
 
-  README.md "Choix techniques"
+Consultez la rubrique [ici](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/README.md#choix-techniques--quel-os-quelle-version-etc).
+
 

@@ -297,7 +297,7 @@ Pour accéder à l'interface, rentrez l'adresse ip de votre serveur dans un mote
 
 ![IP_WEB_BROWSER.png](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/PHOTO_ADMIN/IP_WEB_BROWSER.png)
 
-Pour vous connectez à l'Interface Web, rentrez l'adresse mail administrateur établie et le mot de passe [plus haut](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/edit/main/INSTALL.md#configuration-de-liso--os) :
+Pour vous connectez à l'Interface Web, rentrez l'adresse mail administrateur établie et le mot de passe [plus haut](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/INSTALL.md#configuration-de-liso--os) :
 
 ![FENETRE_CONNEXION.png](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/PHOTO_ADMIN/FENETRE_CONNEXION.png)
 

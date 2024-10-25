@@ -91,9 +91,9 @@ Cliquez sur l'icone symbolisant une cible pour lancer la stratégie et être aut
 
 ## FAQ : solutions aux problèmes connus et communs liés à l'utilisation
 
-__Q : Comment accéder à l'interface de mon server Security Onion ?__
+__Q : Comment accéder à l'interface de mon serveur Security Onion ?__
 
-  - R :
+  - R : Il faut que l'administrateur du Serveur Security Onion auquel vous accéder ai au préalable crée vos identifiants 
 
 __Q : Puis-je rechercher spécifiquement certains événements de l'activité de mon réseaux grâce au logiciel Security Onion ?__
 

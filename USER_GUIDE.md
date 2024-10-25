@@ -20,7 +20,7 @@ Bienvenue dans l'interface avec les différents panels, analyse de gestions des 
 Depuis la barre de navigation sur la gauche de l'interface, vous pouvez accéder aux principaux panneaux d'information et de surveillance suivant :
 
 ### OVERVIEW :
-Ecran d'atterissage à la connexion au serveur. Cette écran permet d'accéder à l'aide du logiciel (en anglais), d'afficher la version du logiciel, ses nouveautés, son développement en cours.
+Ecran d'atterissage à la connexion au serveur. Cette écran permet d'accéder à l'aide de l'OS (en anglais), d'afficher sa version, ses nouveautés, son développement en cours.
 
 ![image](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/PHOTOS_USER/overview_panel02.png)
 
@@ -88,10 +88,10 @@ ________________________________________________________________________________
 __Q : Comment accéder à l'interface de mon serveur Security Onion ?__
 
   - R : Pour la version Evaluation, assurez-vous que l'administrateur du Serveur Security Onion auquel vous voulez accéder ai au préalable crée vos identifiants de connexion. Vous pouvez ensuite utiliser un navigateur internet réscent pour y accéder, en suivant [ces étapes](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/USER_GUIDE.md#se-connecter-%C3%A0-linterface-de-s%C3%A9curity-onion)
-  - Si vous utilisez une version Standalone l'administrateur de votre Serverver Security Onion devra en plus ajoutter l'adresse IP de votre ordinateur au fichier de configuration firewall du logiciel.
+  - Si vous utilisez une version Standalone l'administrateur de votre Serverver Security Onion devra en plus ajoutter l'adresse IP de votre ordinateur au fichier de configuration firewall de L'OS.
   
       
-__Q : Puis-je rechercher certains événements de l'activité de mon réseaux grâce au logiciel Security Onion ?__
+__Q : Puis-je rechercher certains événements de l'activité de mon réseaux grâce à Security Onion ?__
 
   - R : Suivre [cette étape](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/USER_GUIDE.md#filtrer-des-%C3%A9v%C3%A9nements) vous permettra de comprendre comment filtrer avec précision l'activité de votre réseaux dans Security Onion.
 

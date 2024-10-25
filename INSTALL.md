@@ -353,11 +353,11 @@ Une fois la machine virtuelle client initiée, lui attribuer l'adresse IPv4 de v
 
 **Q : Comment gérer les utilisateurs non administrateur ?**
 
-  * R : Consultez la rubrique [ici](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/edit/main/INSTALL.md#configuration-nouvel-utilisateur-sur-la-web-interface).
+  * R : Consultez la rubrique [ici](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/INSTALL.md#configuration-nouvel-utilisateur-sur-la-web-interface).
 
 **Q : Comment vérifier les clés ISO ?**
 
-  * R : Consultez la rubrique [ici](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/edit/main/INSTALL.md#v%C3%A9rification-de-lint%C3%A9grit%C3%A9-de-liso).
+  * R : Consultez la rubrique [ici](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/INSTALL.md#v%C3%A9rification-de-lint%C3%A9grit%C3%A9-de-liso).
 
 **Q : Quelle version de Security Onion dois-je utiliser ?**
 

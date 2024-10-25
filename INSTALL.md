@@ -90,7 +90,7 @@ Définir l'espace disque requis pour le bon fonctionnement de la VM :
 
 Votre VM est prête.
 ________________
-**Configuration des paramètres réseaux de la VM**
+##### Configuration des paramètres réseaux de la VM
 
 Pour l'installation du serveur Security Onion, la mise en place de deux cartes réseaux est nécessaire (les paramètres qui vont être sélectionnés correspondent à une installation sur un réseau local).
 
@@ -123,6 +123,8 @@ Dans l'adapter 2 :
 ![MODE_RESEAU_INTERNE.png](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/PHOTO_ADMIN/MODE_RESEAU_INTERNE.PNG)
 
 Avant de poursuivre dans cette partie, enchaînez avec la suivante : [Configuration de l'ISO / OS](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/INSTALL.md#configuration-de-liso--os)
+
+##### Configuration des paramètres réseaux pour un accès local
 
 Une fois l'initialisation du serveur terminée, vous allez devoir modifier certains paramètres réseaux pour permettre la communication de votre machine hôte et/ou d'une VM cliente avec votre serveur.
 
@@ -331,18 +333,31 @@ Et voilà ! Vous avez créée un nouvel utilisateur.
 _____________________________________________________________________________________________________________________________________________________________________________
 ## FAQ : solutions aux problèmes connues et communs liés à l'installation et à la configuration
 
-Comment dois-je configurer les paramètres réseaux de ma VM ?
+Comment dois-je configurer les paramètres réseaux de ma VM pour y accéder ?
 
-Les paramètres réseaux si machine hôte ?
+Consultez la rubrique [ici]().
 
-Les paramètres réseaux si VM Client ?
+Les paramètres réseaux pour utiliser ma machine hôte ?
+
+Consultez la rubrique [ici]().
+
+Les paramètres réseaux pour utiliser une VM Client ?
+
+
 
 Comment me connecter en tant qu'administrateur  ?
 
+Consultez la rubrique [ici]().
+
 Comment gérer les utilisateurs non administrateur ?
+
+Consultez la rubrique [ici]().
 
 Comment vérifier les clés ISO ?
 
+Consultez la rubrique [ici]().
+
 Quelle version de Security Onion dois-je utiliser ?
 
+  README.md "Choix techniques"
 

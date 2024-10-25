@@ -94,21 +94,21 @@ Cliquez sur l'icone symbolisant une cible pour lancer la stratégie et être aut
 __Q : Comment accéder à l'interface de mon serveur Security Onion ?__
 
   - R : Pour la version Evaluation, assurez-vous que l'administrateur du Serveur Security Onion auquel vous voulez accéder ai au préalable crée vos identifiants de connexion. Vous pouvez ensuite utiliser un navigateur internet réscent pour y accéder, en suivant [ces étapes](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/USER_GUIDE.md#se-connecter-%C3%A0-linterface-de-s%C3%A9curity-onion)
-    - Si vous utilisez une version Standalone l'administrateur de votre Serverver Security Onion devra en plus ajoutter l'adresse IP de votre ordinateur au fichier de configuration firewall du logiciel.
+  - Si vous utilisez une version Standalone l'administrateur de votre Serverver Security Onion devra en plus ajoutter l'adresse IP de votre ordinateur au fichier de configuration firewall du logiciel.
   
       
-__Q : Puis-je rechercher spécifiquement certains événements de l'activité de mon réseaux grâce au logiciel Security Onion ?__
+__Q : Puis-je rechercher certains événements de l'activité de mon réseaux grâce au logiciel Security Onion ?__
 
-  - R : 
+  - R : Suivre [cette étape](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/USER_GUIDE.md#filtrer-des-%C3%A9v%C3%A9nements) vous permettra de comprendre comment filtrer avec précision l'activité de votre réseaux dans Security Onion.
 
 __Q : Comment afficher les echecs de connexion aux équipements de mon réseau ?__
 
-  - R :
+  - R : L'application d'un [filtre _SOC Login failur_](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/USER_GUIDE.md#filtrer-des-%C3%A9v%C3%A9nements, via le tableau de contrôle de Security Onion, vous permettra d'afficher uniquement les événements d'échec de connexion aux équipements de votre réseau survéillé par Security Onion)
 
 __Q : Est-il possible de vérifier l'état d'une node de mon réseau avec Security Onion ?__
 
-  - R :
+  - R : Vous pouvez contrôler l'état de votre réseaux ainsi que des nodes qui y sont reliés en accédant au panneau [Grid](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/USER_GUIDE.md#grid-) de l'interface de Security Onion.
     
 __Q : Est-il possible d'installer une node IDH avec Security Onion ?__
 
- - R :
+ - R : L'ISO de Security Onion intègre notamment la possibilité d'installer une node IDH à votre réseau, et de faire remonter les alertes des attaques contrés sur cette node dans Security Onion. Une fois votre IDH installé, il est possible d'activer les alertes d'attaque en suivant ces [étapes depuis le panneau Detection](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/USER_GUIDE.md#activerd%C3%A9sactiver-des-strat%C3%A9gies-et-m%C3%A9thodes-de-s%C3%A9curit%C3%A9)

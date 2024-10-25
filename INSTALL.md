@@ -335,21 +335,21 @@ ________________________________________________________________________________
 
 **Q : Comment dois-je configurer les paramètres réseaux de ma VM pour y accéder ?**
 
-  * R : Consultez la rubrique [ici](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/edit/main/INSTALL.md#configuration-des-param%C3%A8tres-r%C3%A9seaux-de-la-vm).
+  * R : Consultez la rubrique [ici](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/INSTALL.md#configuration-des-param%C3%A8tres-r%C3%A9seaux-de-la-vm).
 
 **Q : Les paramètres réseaux pour utiliser ma machine hôte ?**
 
-  * R : Consultez la rubrique [ici](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/edit/main/INSTALL.md#configuration-des-param%C3%A8tres-r%C3%A9seaux-pour-un-acc%C3%A8s-local).
+  * R : Consultez la rubrique [ici](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/INSTALL.md#configuration-des-param%C3%A8tres-r%C3%A9seaux-pour-un-acc%C3%A8s-local).
 
 **Q : Les paramètres réseaux pour utiliser une VM Client ?**
 
 ![PARAMETRES_RESEAU_CLIENT.PNG](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/PHOTO_ADMIN/PARAMETRES_RESEAU_CLIENT.PNG)
 
-Une fois la machine virtuelle client initiée, lui attribuer l'adresse IPv4 de votre choix d'après la configuration de votre réseau. Dans notre cas, la passerelle comme base : 172.16.10.254 (exemple d'IPv4 attribué à l'un de nos clients : 172.16.10.20). En cas de doute, référez-vous aux informations renseignées dans cette [partie](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/edit/main/INSTALL.md#configuration-de-liso--os).
+Une fois la machine virtuelle client initiée, lui attribuer l'adresse IPv4 de votre choix d'après la configuration de votre réseau. Dans notre cas, la passerelle comme base : 172.16.10.254 (exemple d'IPv4 attribué à l'un de nos clients : 172.16.10.20). En cas de doute, référez-vous aux informations renseignées dans cette [partie](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/INSTALL.md#configuration-de-liso--os).
 
 **Q : Comment me connecter en tant qu'administrateur  ?**
 
-  * R : Consultez la rubrique [ici](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/edit/main/INSTALL.md#connexion-web-interface-administrateur).
+  * R : Consultez la rubrique [ici](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/INSTALL.md#connexion-web-interface-administrateur).
 
 **Q : Comment gérer les utilisateurs non administrateur ?**
 

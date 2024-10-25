@@ -93,11 +93,13 @@ Cliquez sur l'icone symbolisant une cible pour lancer la stratégie et être aut
 
 __Q : Comment accéder à l'interface de mon serveur Security Onion ?__
 
-  - R : Il faut que l'administrateur du Serveur Security Onion auquel vous accéder ai au préalable crée vos identifiants 
-
+  - R : Pour la version Evaluation, assurez-vous que l'administrateur du Serveur Security Onion auquel vous voulez accéder ai au préalable crée vos identifiants de connexion. Vous pouvez ensuite utiliser un navigateur internet réscent pour y accéder, en suivant [ces étapes](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/USER_GUIDE.md#se-connecter-%C3%A0-linterface-de-s%C3%A9curity-onion)
+    - Si vous utilisez une version Standalone l'administrateur de votre Serverver Security Onion devra en plus ajoutter l'adresse IP de votre ordinateur au fichier de configuration firewall du logiciel.
+  
+      
 __Q : Puis-je rechercher spécifiquement certains événements de l'activité de mon réseaux grâce au logiciel Security Onion ?__
 
-  - R :
+  - R : 
 
 __Q : Comment afficher les echecs de connexion aux équipements de mon réseau ?__
 

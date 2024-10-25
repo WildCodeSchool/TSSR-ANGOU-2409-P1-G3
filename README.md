@@ -102,9 +102,13 @@ Solution mode "Accès par pont" :
 
 ### Retours entretiens client ?
 
+
 Grâce à Security Onion notre client souhaiterais pouvoir surveiller :
 - Si un equipement a changé d'adresse MAC (attaque dîte **ARP Spoofing**)
 - Si un equipement n'est plus connecté au réseau
 - Si un equipement subis ou a subis une attaque par dictionnaire.
 
 ## Améliorations possibles : suggestions d’améliorations futures
+- Installer et paramétrer une version Standard de Securtity Onion afin de récupérer de manière précise les journaux d'activités du réseaux. L'installation de cette version permettrait également d'augmenter l'efficacité de la surveillance du réseaux
+- Installer Security Onion sur un réseau privé dédié plutôt que sur réseaux publique.
+- Installer et utiliser des stratégies de surveillance connues, préconfigurés et intégrés dans Securtiy Onion. A l'instar d'une [node IDH](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/USER_GUIDE.md#activerd%C3%A9sactiver-des-strat%C3%A9gies-et-m%C3%A9thodes-de-s%C3%A9curit%C3%A9), et de faire remonter les détéctions dans les alertes de l'OS.

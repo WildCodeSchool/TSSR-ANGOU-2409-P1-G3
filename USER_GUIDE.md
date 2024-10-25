@@ -35,7 +35,7 @@ Permet de visualiser les activités sur le server et de cibler certains événem
 ![image](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/PHOTOS_USER/dashboard_pannel.png)
 
 ### HUNT :
-Permet d'ennquêter, de manière flexible et rapide, sur les alertes remontées.
+Permet d'enquêter, de manière flexible et rapide, sur les alertes remontées.
 
 ![image](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/PHOTOS_USER/hunt_pannel.png)
 
@@ -45,14 +45,6 @@ Affiche le status du server et des nodes connectés sur la grille de Security On
 ![image](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/PHOTOS_USER/grid_pannel.png)
 
 ________________________________________________________________________________
-
-===============================================
-# A SUPPRIMER
-> ADMINISTRATION :
-* users : liste et gestion des utilisateurs avec leurs identifiants.
-* configuration : configurer les aspects du logiciel avec toutes les options, dans l’onglet _Global_ 
-===============================================
-
 
 ## Utilisation de base : Comment utiliser certaine fonctionnalités clés de Security Onion
 
@@ -88,6 +80,8 @@ La champs des filtres s'est automatiquement complété.
 Cliquez sur l'icone symbolisant une cible pour lancer la stratégie et être automatiquement redirigé sur le panneau __Alertes__ afin de visualiser ses résultats.
 
 ![image](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/PHOTOS_USER/detection_pannel_majfiltre_lancer-alert.png)
+
+__________________________________________________________________________________________
 
 ## FAQ : solutions aux problèmes connus et communs liés à l'utilisation
 

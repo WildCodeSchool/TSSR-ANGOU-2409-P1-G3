@@ -103,7 +103,7 @@ __Q : Puis-je rechercher certains événements de l'activité de mon réseaux gr
 
 __Q : Comment afficher les echecs de connexion aux équipements de mon réseau ?__
 
-  - R : L'application d'un [filtre _SOC Login failur_](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/USER_GUIDE.md#filtrer-des-%C3%A9v%C3%A9nements, via le tableau de contrôle de Security Onion, vous permettra d'afficher uniquement les événements d'échec de connexion aux équipements de votre réseau survéillé par Security Onion)
+  - R : L'application d'un [filtre _SOC Login failur_](https://github.com/WildCodeSchool/TSSR-ANGOU-2409-P1-G3/blob/main/USER_GUIDE.md#filtrer-des-%C3%A9v%C3%A9nements), via le tableau de contrôle de Security Onion, vous permettra d'afficher uniquement les événements d'échec de connexion aux équipements de votre réseau survéillé par Security Onion)
 
 __Q : Est-il possible de vérifier l'état d'une node de mon réseau avec Security Onion ?__
 
